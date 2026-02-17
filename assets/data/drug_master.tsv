@@ -1,0 +1,1051 @@
+Item code	Item Description	UOM	Bin Location
+0000-14-39X-7	Anastrozole 1mg Tablet	EA	1A-1-1
+0004-28-346-H	DULoxetine HCl 60mg Capsule (Cymbalta)	EA	1A-1-2
+0004-28-152-I	Phentermine 15mg Capsule	EA	1A-1-3
+0004-52-001-I	Acetazolamide 250mg Tablet	EA	1A-1-4
+0000-12-81X-0	Acarbose 50mg Tablet	EA	1A-2-5
+0004-28-011-E	Carbamazepine 200mg Tablet	EA	1A-2-6
+0004-24-100-D	Atenolol 50mg,NiFEdipine 20mg SR Capsule	EA	1A-2-7
+0004-24-055-E	DilTIAZem HCl 30mg Tablet	EA	1A-2-8
+0004-12-010-J	Baclofen 10mg Tablet	EA	1A-3-09
+0004-88-018-J	CalciTRiol 0.25mcg Capsule	EA	1A-3-10
+0004-08-066-C	CefUROxime Axetil 250mg Tablet	EA	1A-3-11
+0004-28-285-L	Levodopa 100mg, Benserazide 25mg Capsule (MAdopar)	EA	1A-3-12
+0004-28-419-G	Celecoxib 200mg Capsule	EA	1A-4-13
+0004-56-010-J	Loperamide 2mg Tablet	EA	1A-4-14
+0004-28-353-J	HydrOXYzine 25mg Capsule/Tablet	EA	1A-4-15
+0000-21-15X-9	Etoricoxib 120mg Tablet	TAB	1A-4-16
+0007-52-025-G	Benzydamine HCl 0.15% Solution 200mL	BTL	1A-5-17 to 18
+0015-28-006-E	Sodium Valproate 200mg/5mL Syrup	BTL	1A-5-19 to 20
+0013-84-178-G	Povidone Iodine 10% In Aq Soln 100ml	BTL	1A-6-21
+0005-84-398-I	Betamethasone Dipropionate 0.05%, Gentamicin 0.1% Cream 15g	EA	1A-6-22
+0015-56-080-J	Sodium Picosulfate Oral Powder 16g (Picoprep)	EA	1A-6-23
+0005-84-319-I	White Soft, Liquid Paraffin (3:2) 100g	EA	1A-6-24
+0004-28-119-G	Nortriptyline HCl 25mg Capsule	EA	1B-1-29
+0005-12-007-C	Nicotine 15mg/16hr Patch (Nicorette)	EA	1B-1-30
+0004-08-172-D	Amantadine HCl 100mg Capsule	EA	1B-1-31
+0004-12-029-K	Bethanechol Chloride 10mg Tablet	EA	1B-1-32
+0004-88-021-J	Alfacalcidol 0.25mcg Capsule/Tablet	EA	1B-2-33
+0004-10-089-W	Bicalutamide 50mg Tablet	EA	1B-2-34
+0004-92-123-C	Folinic Acid 15mg Tablet	EA	1B-2-35
+0004-92-008-D	Bromocriptine Mesylate 2.5mg Tablet	EA	1B-2-36
+0004-08-161-I	Clindamycin HCl 150mg Capsule	EA	1B-3-37
+0004-24-152-G	Co-Diovan 80/12.5mg Tablet	EA	1B-3-38
+0004-56-008-H	Diphenoxylate 2.5mg, Atropine Sulfate Tablet	EA	1B-3-39
+0000-20-30X-3	Dutasteride 0.5mg Cap	EA	1B-3-40
+0004-04-035-L	Fexofenadine, Pseudoephedrine Tablet (Telfast-D)	EA	1B-4-41
+0004-24-076-H	Atenolol 100mg Tablet	EA	1B-4-42
+0004-92-002-E	Colchicine 500mcg Tablet	EA	1B-4-43
+0000-20-50X-7	Entecavir 0.5mg Tab	EA	1B-4-44
+0004-28-328-H	TraMADol HCl 50mg Tablet	EA	1B-5-45
+0005-84-082-C	Tetracycline HCl 3% Ointment 15g	EA	1B-5-46
+0000-67-20X-4	LeveTIRAcetam 100mg/mL Solution 300mL	BTL	1B-5-47 to 48
+0001-12-052-W	Spiolto Respimat 2.5/2.5mcg 60D	PK	1B-6-49
+0015-40-084-W	Dextrose Monohydrate 15g	EA	1B-6-50
+0020-56-017-H	Sodium Phosphate Enema Paed 59mL (Fleet)	EA	1B-6-51
+0013-84-044-F	Acne Lotion 100mL	BTL	1B-6-52
+0004-24-255-W	Labetalol 100mg Tablet	EA	1C-1-57
+0004-86-028-G	Mirabegron 25mg Tablet	TAB	1C-1-58
+0004-24-382-L	Telmisartan 40mg Tablet	EA	1C-1-59
+0000-32-45X-7	Solifenacin Succinate 5mg Tab	EA	1C-1-60
+0004-28-015-H	DiazePAM 2mg Tablet	EA	1D-1-69
+0004-40-029-C	Calcium Carbonate (Chewable) 1.25g Tablet	EA	1D-1-70
+0004-28-020-D	Haloperidol 0.5mg Tablet	EA	1D-1-71
+0004-08-089-W	Fluconazole 50mg Capsule	EA	1D-1-72
+0004-24-221-C	Ezetimibe 10mg Tablet	EA	1D-2-73
+0004-44-009-C	Creon 10,000 Capsule	EA	1D-2-74
+0004-10-111-E	Exemestane 25mg Tablet	EA	1D-2-75
+0004-28-227-D	Bupropion 150mg SR Tablet	EA	1D-2-76
+0004-28-329-G	Gabapentin 300mg Capsule	EA	1D-3-77
+0004-68-165-E	GliCLAzide 60mg MR Tablet (Diamicron)	EA	1D-3-78
+0004-12-004-E	Caffeine 100mg, Ergotamine Tartrate 1mg Tablet	EA	1D-3-80
+0004-68-063-F	HYDrocortisone 10mg Tablet	EA	1D-4-81
+0004-24-118-G	Isosorbide MONOnitrate SR 60mg Tablet	EA	1D-4-82
+0004-68-183-E	Dapagliflozin 10mg Tablet (Forxiga)	EA	1D-4-83
+0004-08-007-H	Cloxacillin Sod 250mg Capsule	EA	1D-4-84
+0005-84-173-K	Ketoprofen 2.5% Gel 30g	EA	1D-5-85
+0010-40-024-K	Potassium Dihydrogen Phosphates 10mmol/10mL Inj	EA	1D-5-86
+0524-92-23X-6	Morphine Sulfate 5mg/5ml Mixt 100mL	BTL	1D-5-87
+8551-09-67X-5	Co-Amoxiclav 642.9mg/5mL Suspension	BTL	1D-5-88
+0003-87-44X-1	Cough-en Linctus 90ml/120ml	BTL	1D-6-89
+0001-68-009-K	Budesonide 1mg/2ml Respule (PULMICORT)	PK	1D-6-90
+0005-84-136-F	Aqueous Cream 100g	EA	1D-6-91
+0005-84-205-W	Imiquimod 5% Cream (Aldara)	EA	1D-6-92
+0013-84-199-L	Mometasone Furoate 0.1% Lotion 30mL (Elomet)	EA	1E-1-097
+0015-56-086-D	Charcoal 50g Granules	EA	1E-1-098
+0013-84-070-E	Desonide 0.05% Lotion 2oz (Desowen)	BTL	1E-1-099
+0005-51-50X-3	Fucicort Lipid Cream 15g	EA	1E-1-100
+0004-86-008-L	FLAvoxATE 200mg Tablet	EA	1E-2-101
+0004-68-013-J	GliBENclamide 5mg Tablet	EA	1E-2-102
+0000-14-29X-2	Co-Amoxiclav 1G (875/125) Tab	EA	1E-2-103
+0004-24-290-C	CarveDILOL 25mg Tablet	EA	1E-2-104
+0000-24-63X-7	LeveTIRAcetam 1,000mg Tablet	EA	1E-3-105
+0004-12-007-J	Hyoscine N-Butylbromide 10mg Tablet	EA	1E-3-106
+0004-04-040-H	Betahistine Mesilate 6mg Tablet (Merislon)	EA	1E-3-107
+0004-92-030-K	CicloSPORIN 25mg Capsule (Neoral)	EA	1E-3-108
+0004-40-052-I	Lanthanum Carbonate 1,000mg Chew Tablet	EA	1E-4-109
+0004-24-379-F	Rosuvastatin 10mg Tablet	TAB	1E-4-110
+0004-40-028-E	Bumetanide 1mg Tablet (Burinex)	EA	1E-4-111
+0004-28-066-W	CloBAZam 10MG TAB (FRISIUM)	EA	1E-4-112
+0015-20-007-J	Fe Polymaltose Complex 50mg/mL Drop 30mL	BTL	1E-5-113
+0020-28-002-G	Diclofenac Sodium 12.5mg Suppository	EA	1E-5-114
+0004-68-068-G	Levothyroxine Sodium 25mcg Tablet (Euthyrox)	EA	1E-5-115
+0018-84-045-E	Olive Oil 200mL	BTL	1E-5-116
+6706-42-35X-8	Triumeq Tablet 50mg/600mg/300mg	EA	1E-6-117
+0020-97-19X-3	Tolvaptan 15mg Tablet (Samsca)	EA	1E-6-118
+0001-52-024-J	Relvar Ellipta 200/25mcg Inh Pwd 30D	EA	1E-6-119
+4278-13-38X-5	Baricitinib 4mg Tablet	EA	1E-6-120
+0000-26-64X-8	Midodrine HCl 5mg Tablet 	EA	2A-1-125
+0004-24-146-W	Flecainide Acetate 100mg Tablet (Tambocor)	EA	2A-1-126
+0004-10-090-J	LeTROzole 2.5mg Tablet	EA	2A-1-127
+0004-12-032-K	Mebeverine HCl 135mg Tablet	EA	2A-1-128
+0004-40-026-I	Metolazone 5mg Tablet	EA	2A-2-129
+0045-72-87X-5	Semaglutide (RYBELSUS) 7mg Tablet	EA	2A-2-130
+0004-24-091-L	Enalapril Maleate 20mg Tablet	EA	2A-2-131
+0463-49-68X-9	Iron Hydroxide (Polymaltose) 100mg Capsule	EA	2A-2-132
+0004-68-008-C	GliCLAzide 80mg Tablet	EA	2A-3-133
+0004-56-113-D	Magnesium T 250mg, Alu Hyd 250mg, Simet 30mg Tab	EA	2A-3-134
+0020-56-001-L	Bisacodyl 10mg Suppository	EA	2A-3-135
+0004-04-062-H	Fexofenadine HCl 180mg Tablet	EA	2A-3-136
+0003-22-67X-4	Itraconazole 100mg Capsule	EA	2A-4-137
+0004-28-388-W	QUEtiapine 100mg Tablet	EA	2A-4-138
+0004-28-278-I	Levodopa 200mg, Benserazide 50mg Tablet (MAdopar)	EA	2A-4-139
+0000-12-77X-0	Abacavir 600mg, LamiVUDine 300mg Tablet	EA	2A-4-140
+0007-52-014-L	Glycerin Thymol Co Gargle 100mL	BTL	2A-5-141
+0004-28-381-I	PARoxetine 20mg Tablet	EA	2A-5-142
+0005-84-107-W	Betamethasone Valerate 0.025% Cream 15g	EA	2A-5-143
+0005-84-002-E	Chlorhexidine 1% Cream 15g	EA	2A-5-144
+0015-08-028-G	LamiVUDine 10mg/mL Solution 240mL (Epivir)	BTL	2A-6-145
+0000-39-75X-7	Aciclovir 5% Cr 10g	EA	2A-6-146
+0020-68-145-I	Budesonide 2mg/Spray Rectal Foam (Budenofalk)	EA	2A-6-147
+4644-37-01X-7	Symbicort 160/4.5mcg RAPIhaler 120D	EA	2A-6-148
+0000-29-26X-1	Pilocarpine HCl 5mg Tab	EA	2B-1-153
+0004-28-104-I	Lithium Carbonate CR 400mg Tablet	EA	2B-1-154
+0004-28-101-D	Tetrabenazine 25mg Tablet	EA	2B-1-155
+0004-56-121-E	MESALAZINE EC 800MG TAB (ASACOL)	EA	2B-1-156
+0004-24-029-F	METHYLdopa 250mg Tablet	EA	2B-2-157
+0004-68-047-D	Budesonide 3mg Cap	EA	2B-2-158
+0004-08-208-W	Minocycline 50mg Capsule	EA	2B-2-159
+0004-08-017-E	Ethambutol HCl  400mg Tablet	EA	2B-2-160
+0004-68-020-W	Prednisolone 5mg Tablet	EA	2B-3-161
+0004-68-173-F	Linagliptin 5mg Tablet (Trajenta)	EA	2B-3-162
+0004-56-057-F	Sucralfate 1g Tablet	EA	2B-3-163
+0004-28-027-L	Mefenamic Acid 250mg Capsule	EA	2B-3-164
+0004-92-167-F	Melatonin 2mg PR Tablet	EA	2B-4-165
+0004-12-085-D	Nicotine 1mg Lozenges (NICOTINELL) 36s	BOX	2B-4-166
+0004-20-044-J	RivaROXaban 2.5mg Tablet (Xarelto)	EA	2B-4-167
+0000-21-17X-0	Etoricoxib 60mg Tablet 	EA	2B-4-168
+0005-84-419-D	Adapalene, Benzoyl Peroxide Gel (Epiduo) 15g	EA	2B-5-169
+0027-11-59X-3	Dolutegravir 50mg, LamiVUDine 300mg Tablet (Dovato)	EA	2B-5-170
+0005-84-008-D	Lidocaine 2.5%, Prilocaine Cream 5g (EmLa)	EA	2B-5-171
+0015-56-030-K	Sodium Phosphate Oral Mixture 45mL (Fleet)	BTL	2B-5-172
+0020-68-143-K	Estrogen Conjugated 0.625mg/g Vaginal Cream 14g	EA	2B-6-173
+0015-56-055-F	Simethicone 100mg/mL Emulsion 30mL	BTL	2B-6-174
+0015-08-070-C	Aciclovir 200mg/5ml Susp 120ml	BTL	2B-6-175
+0004-12-088-L	Tizanidine 2mg Tablet	EA	2B-6-176
+0004-84-002-L	Phenazopyridine 100mg Tablet	EA	2C-1-181
+0004-24-018-K	HydrALAzine HCl 50mg Tablet	EA	2C-1-182
+0004-28-145-F	Amisulpride 200mg Tablet	EA	2C-1-183
+0004-04-005-J	Cyproheptadine HCl 4mg Tablet	EA	2C-1-184
+0000-34-40X-0	Valsartan 160mg Tablet	EA	2D-1-193
+0004-08-042-F	RifAMPicin 150mg Capsule	EA	2D-1-194
+0004-92-056-D	Tacrolimus 1mg Capsule (Prograf)	EA	2D-1-196
+0004-68-007-E	Dexamethasone 500mcg Tablet	EA	2D-2-198
+0004-28-394-E	Sertraline HCl 50mg Tablet	EA	2D-2-199
+0004-24-323-F	Perindopril 4mg Tablet	EA	2D-2-200
+0004-68-164-F	MetFORMIN XR 750mg Tablet (Glucophage XR)	EA	2D-3-201
+0004-92-034-C	TrimetAZIDINE 20mg Tablet	EA	2D-3-202
+0004-48-061-L	Montelukast 10mg Tablet	EA	2D-3-203
+0011-35-82X-0	Erdosteine 300mg Capsule	EA	2D-3-204
+0004-40-005-F	HydroCHLOROthiazide 25mg Tablet	EA	2D-4-205
+0004-20-018-I	Pentoxifylline 400mg Tablet	EA	2D-4-206
+0004-24-299-E	Spironolactone 25mg Tablet	EA	2D-4-207
+0004-28-079-D	PiraCETam 400mg Capsule	EA	2D-4-208
+0005-84-120-J	Miconazole 2% Cream 15g	EA	2D-5-209
+0015-56-053-J	Smecta Powder Sachet 3g	EA	2D-5-210
+0007-52-048-F	Chlorhexidine 0.2% Mouth Wash 200mL	BTL	2D-5-211
+0005-84-054-H	HYDrocortisone 1% Cream 15g	EA	2D-5-212
+0099-84-005-I	Silver Nitrate 75% Caustic Strip	EA	2D-6-213
+0013-84-160-D	Selenium Sulfide 2.5% Susp 100Ml	BTL	2D-6-214
+0015-40-028-L	Potassium Citrate 3g/10mL Mixture	BTL	2D-6-215
+0007-52-016-H	Oxymetazoline 0.05% Nasal Solution (10mL/15mL)	EA	2D-6-216
+6446-20-84X-7	Nadolol 40mg Tablet	EA	2E-1-221
+0004-28-012-C	ChlorproMAZINE HCl 25mg Tablet	EA	2E-1-222
+0004-24-375-J	Sacubitril 24mg, Valsartan 26mg Tab	TAB	2E-1-223
+0000-32-86X-7	Tadalafil 20mg Tablet	EA	2E-1-224
+0004-24-293-K	Nicotinic Acid ER 500mg Tablet (Niaspan)	EA	2E-2-226
+0000-20-11X-3	Donepezil HCl 5mg Tablet	EA	2E-2-227
+0004-08-021-C	Isoniazid 100mg Tablet	EA	2E-2-228
+0004-88-028-G	Multivitamin Tablet	EA	2E-3-229
+0004-28-111-L	FluVOXAMine Maleate 50mg Tablet	EA	2E-3-230
+0004-88-009-K	PyridoXINE HCl 50mg Tablet	EA	2E-3-231
+0000-28-23X-0	Oseltamivir Phophate 75mg Capsule	EA	2E-3-232
+0002-09-72X-1	Ivabradine 7.5mg Tablet	EA	2E-4-233
+0004-92-031-I	CicloSPORIN 100mg Capsule (Neoral)	EA	2E-4-234
+0005-84-340-G	Fusidic Acid 2% Cr 15G	EA	2E-4-235
+0004-24-087-C	Fenofibrate 100mg Capsule	EA	2E-4-236
+0001-68-017-L	Seretide 25/125mcg Evohaler 120D	EA	2E-5-237
+0015-56-051-C	Gaviscon Liquid 200mL	BTL	2E-5-238
+0007-52-051-F	Co-Phenylcaine Forte Spray 50mL	EA	2E-5-239
+0015-28-099-L	RisperiDONE 1mg/mL Solution 30mL	BTL	2E-5-240
+0008-52-109-E	TobraMYCIN 0.3% Eye Ointment 3.5g (Tobrex)	EA	2E-6-241
+0004-24-112-H	NiMOdipine F/C 30mg Tablet (Nimotop)	EA	2E-6-242
+0004-08-033-G	Penicillin V 250mg Tablet	EA	2E-6-243
+9978-99-48X-5	Ural Effervescent Oral Powder 4G	EA	2E-6-244
+0004-56-049-E	Mesalazine EC 500mg Tablet (Salofalk)	EA	3A-1-249
+0004-68-022-I	Propylthiouracil 50mg Tablet	EA	3A-1-250
+0004-08-189-E	Primaquine Phosphate 15mg Tablet	TAB	3A-1-251
+0020-68-146-H	Estradiol 10mcg Vaginal Tablet	EA	3A-1-252
+0004-24-002-D	CapTOPril 25mg Tablet	EA	3A-2-253
+0004-28-113-H	Sodium Valproate Chrono 500mg Tablet (Epilium)	EA	3A-2-254
+0004-08-218-L	Atazanavir 300mg Capsule (Reyataz)	EA	3A-2-255
+0004-28-416-J	Primidone 250mg Tablet	EA	3A-2-256
+0004-08-233-D	Ritonavir 100mg Tablet (Norvir)	EA	3A-3-257
+0000-20-37X-8	Efavirenz 600mg Tablet	EA	3A-3-258
+8653-60-35X-5	Choline Salicylate Oral Gel 10g	EA	3A-3-259
+0005-12-016-I	Rivastigmine 4.6mg/24H Patch (Exelon)	EA	3A-3-260
+0004-28-008-E	LoRAzepam 0.5mg Tablet	EA	3A-4-261
+0004-68-150-K	Sitagliptin 50mg Tablet (Januvia)	EA	3A-4-262
+0004-08-109-K	SulfaDIAzine 500mg Tablet	EA	3A-4-263
+0010-20-060-H	Ferric Hyd Sucrose Co 100mg/5mL Inj 	EA	3A-4-264
+0001-12-004-D	Salbutamol Sulfate 0.5% Inhaler Solution 10mL	EA	3A-5-265
+0005-84-280-J	Betamethasone Valerate 0.05% Ointment 30g	EA	3A-5-266
+8680-34-31X-4	BriMONidine 0.33% Gel 30g (MIRVASO)	EA	3A-5-267
+0004-20-031-C	Eltrombopag 25mg Tablet (Revolade)	EA	3A-5-268
+5044-69-36X-7	CloNIDine 25mcg Tablet	EA	3A-6-269
+0007-49-59X-9	Lemborexant 5mg Tablet (DAYVIGO)	EA	3A-6-270
+0000-25-29X-5	Loratadine 5mg,Pseudoephedrine 120mg SR Tablet	EA	3A-6-271
+0004-56-042-H	Orlistat 120mg Capsule (Xenical)	EA	3A-6-272
+0004-40-008-K	Probenecid 500mg Tablet	EA	3B-1-277
+0004-24-039-C	Propranolol HCl 40mg Tablet	EA	3B-1-278
+0004-12-017-G	Propantheline Bromide 15mg Tablet	EA	3B-1-279
+0004-08-112-K	Ribavirin 200mg Capsule/Tablet	EA	3B-1-280
+0004-68-002-D	Carbimazole 5mg Tablet	EA	3B-2-281
+0000-30-69X-0	Risedronate Sod 35mg Tab	EA	3B-2-282
+0004-08-013-W	Pyrimethamine 25mg Tablet	EA	3B-2-283
+0004-68-125-J	Levothyroxine Sodium 50mcg Tablet (Euthyrox)	EA	3B-2-284
+0004-08-043-D	RifAMPicin 300mg Capsule	EA	3B-3-286
+0004-20-008-L	Tranexamic Acid 500mg Tablet (Cyklokapron)	EA	3B-3-287
+0004-24-058-J	Lisinopril 10mg Tablet	EA	3B-3-288
+0004-88-027-I	Renal Vitamin Tablet	EA	3B-4-289
+0004-92-184-G	CicloSPORIN 100mg Capsule (Deximune)	EA	3B-4-290
+0000-27-13X-9	Mycophenolate Mofetil 250mg Capsule 	EA	3B-4-291
+0004-88-014-G	Vitamin B Complex Tablet	EA	3B-4-292
+0015-28-009-J	Paracetamol 120mg/5mL Suspension 100mL	BTL	3B-5-293
+0015-28-028-F	Phenytoin 125mg/5mL Suspension	BTL	3B-5-294
+0015-56-045-I	Aluminium Hydroxide, Magnesium Trisilicate ,Simethicone Mixture 200mL	BTL	3B-5-295
+0005-84-184-F	Adapalene 0.1% Gel 30g (Differin)	EA	3B-5-296
+0005-84-041-F	Clobetasol Propionate 0.05% Cream 15g	EA	3B-6-297
+0000-13-14X-0	Acitretin 10mg Capsule	EA	3B-6-298
+0015-08-004-J	CefALExin 125mg/5mL Suspension 60mL	BTL	3B-6-299
+0020-84-019-G	HYDrocortisone Acetate 10% Rectal Foam 15g	EA	3B-6-300
+0004-88-022-H	Alfacalcidol 1mcg Capsule/Tablet	EA	3C-1-305
+0004-68-070-I	Desmopressin Acetate 0.1mg Tablet (Minirin)	EA	3C-1-306
+0004-24-326-C	Atorvastatin 40mg Tablet	EA	3C-1-307
+0004-28-345-I	DULoxetine HCl 30mg Capsule (Cymbalta)	EA	3C-1-308
+0004-68-166-D	Dienogest 2mg Tab	EA	3D-1-317
+0004-08-039-F	Pyrazinamide 500mg Tablet	EA	3D-1-318
+0004-28-138-C	Selegiline 5mg Tablet	EA	3D-1-319
+0004-28-021-W	Haloperidol 1.5mg Tablet	EA	3D-1-320
+0004-28-120-K	CloZAPine 100mg Tablet	EA	3D-2-321
+0004-24-024-E	Isosorbide DInitrate 10mg Tablet	EA	3D-2-322
+0004-24-269-H	Sotalol HCl 80mg Tablet	EA	3D-2-323
+0004-08-022-L	Isoniazid 300mg Tablet	EA	3D-2-324
+0002-12-38X-8	Mexiletine HCl 100mg Capsule	EA	3D-3-325
+0000-13-59X-2	Allopurinol 300mg Tablet	EA	3D-3-326
+0004-52-005-L	Benzydamine HCl 3mg Lozenges	EA	3D-3-327
+0004-28-428-G	Memantine HCl 10mg Tablet	EA	3D-3-328
+0000-24-66X-4	LeveTIRAcetam 500mg Tablet	EA	3D-4-329
+0004-24-376-I	Sacubitril 49mg, Valsartan 51mg Tab	TAB	3D-4-330
+0004-28-413-W	OLANzapine 5mg Orodispersible Tablet	EA	3D-4-331
+0004-68-196-L	Empagliflozin 25mg Tablet (Jardiance)	EA	3D-4-332
+0015-04-033-L	DiphenhydrAMINE HCl 10mg/5mL Syrup 200mL	BTL	3D-5-333
+0020-40-001-D	Sodium Polystyrene Sulfonate 30g/120mL Enema	EA	3D-5-334
+0005-84-108-K	Betamethasone 0.025%, Clioquinol 3% Cream 15g	EA	3D-5-335
+0015-56-019-J	Magnesium Carbonate Mixture BP 200mL	BTL	3D-5-336
+0015-08-033-C	Clarithromycin 125mg/5mL Suspension 60mL	BTL	3D-6-337
+0013-84-240-W	Permethrin 5% Lotion 30mL	EA	3D-6-338
+0015-48-002-L	Bromhexine HCl 4mg/5mL Elixir (90mL/100mL)	BTL	3D-6-339
+0004-08-213-F	Artemether 20mg,Lumefentrine 120mg Tablet	EA	3D-6-340
+0004-28-002-F	Amitriptyline HCl 25mg Tablet	EA	3E-1-345
+0004-08-044-W	SulfaSALAzine EN 500mg Tablet	EA	3E-1-346
+0045-73-75X-1	Semaglutide (RYBELSUS) 14mg Tablet	EA	3E-1-347
+0004-28-177-D	Entacapone 200mg Tablet (Comtan)	EA	3E-1-348
+0004-92-155-I	Prucalopride 1mg Tablet (Resolor)	EA	3E-2-349
+0000-29-87X-8	Pregabalin 150mg Cap	EA	3E-2-350
+0004-28-392-G	SUMAtriptan 50mg Tablet	EA	3E-2-351
+0004-40-031-E	AMILoride 5mg Tablet	EA	3E-2-352
+0004-92-144-K	Alendronate Sodium 70mg Tablet	EA	3E-3-353
+0034-66-14X-6	CHARCOAL 200MG CAP/TAB	EA	3E-3-354
+0004-28-401-E	Escitalopram 10mg Tablet	EA	3E-3-355
+0004-20-036-I	Ticagrelor 90mg Tablet	EA	3E-3-356
+0000-27-50X-8	Nicotine 2mg Gum 24S	EA	3E-4-357
+0004-08-232-E	LevoFLOXacin 500mg Tablet	EA	3E-4-358
+0004-28-261-D	Flunarizine 5mg Cap	EA	3E-4-359
+0004-08-206-D	Emtricitabine 200mg, Tenofovir 300mg Tablet	EA	3E-4-360
+0005-84-109-I	Emulsifying Ointment 100g	EA	3E-5-361
+0000-28-65X-9	Paracetamol 500mg,Codeine 9mg Tablet	EA	3E-5-362
+1166-14-40X-7	Colecalciferol 25,000Unit/Ml Oral Solution	BTL	3E-5-363
+0015-40-015-J	Potassium Chloride 500mg/5mL Mixture 200mL	BTL	3E-5-364
+0001-68-022-H	Fluticasone 50mcg Evohaler 120D	EA	3E-6-365
+0001-52-023-K	Relvar Ellipta 100/25mcg Inh Pwd 30D	EA	3E-6-366
+0015-48-020-J	Promethazine Codeine Co Linctus 100mL	EA	3E-6-367
+0020-84-017-K	Flagystatin Ovule	EA	3E-6-368
+0004-68-083-K	Dexamethasone 4mg Tablet	EA	4A-1-373
+0000-20-10X-1	Donepezil HCl 10mg Tablet	EA	4A-1-374
+0004-92-174-H	Febuxostat 80mg Tablet	EA	4A-1-375
+0004-40-021-H	Indapamide SR 1.5mg Tablet (NATRILIX)	EA	4A-1-376
+0004-08-069-H	Aciclovir 400mg Tablet	EA	4A-2-377
+0004-24-363-W	Candesartan Cilexetil 16mg Tablet	EA	4A-2-378
+0015-08-067-H	Fosfomycin Sachet 3g	EA	4A-2-379
+0004-08-229-J	Azithromycin 250mg Tablet	EA	4A-2-380
+0004-04-004-L	Chlorphenamine Maleate 4mg Tablet	EA	4A-3-381
+0004-56-128-I	ESomeprazole 20mg Tablet	EA	4A-3-382
+0000-27-16X-1	Mycophenolate Mofetil 500mg Tablet 	EA	4A-3-383
+0004-48-001-G	Bromhexine HCl 8mg Tablet	EA	4A-3-384
+0004-28-397-W	QUEtiapine 25mg Tablet	EA	4A-4-385
+0004-40-037-D	Calcium Acetate 667mg Tablet	EA	4A-4-386 to 387
+0004-28-313-C	traZODone HCl 50mg Tablet	EA	4A-4-388
+0005-84-092-K	Cetrimide 0.2%,Benzalkonium 0.01% Cream 50g	EA	4A-5-389
+0004-12-063-K	Paracetamol 450mg, Orphenadrine 35mg Tablet	EA	4A-5-390
+0005-84-127-G	Betamethasone Valerate 0.05% Cream 15g	EA	4A-5-391
+0005-84-428-D	Fusidic 2%, Betamethasone Diprop 0.064% Oint 15g	EA	4A-5-392
+0004-64-001-D	D-PenicillAMINE 250mg Capsule	EA	4A-6-393
+0004-68-065-W	Dydrogesterone 10mg Tablet	EA	4A-6-394
+0004-08-015-I	Erythromycin (Stearate) EC 250mg Tablet	EA	4A-6-395
+0003-97-12X-3	Ertapenem Sodium 1g Injection	EA	4A-6-396
+0004-28-109-J	FluOXETine 20mg Capsule	EA	4B-1-401
+4105-63-03X-2	Vortioxetine 10mg Tablet	EA	4B-1-402
+0004-92-153-K	RivaROXaban 15mg Tablet (Xarelto)	EA	4B-1-403
+0000-34-34X-5	Ursodeoxycholic Acid 250mg Capsule 	EA	4B-1-404
+0004-04-054-G	Betahistine HCl 24mg Tab	EA	4B-2-405
+0004-24-251-F	Bisoprolol Fumarate 5mg Tablet	EA	4B-2-406
+0004-28-046-H	Phenytoin Sodium 30mg Capsule	EA	4B-2-407
+0004-28-106-E	Carbamazepine CR 200mg Tablet (Tegretol)	EA	4B-2-408
+4009-99-23X-3	Magnesium (Elemental) 250mg Tab	EA	4B-3-409
+0004-20-003-K	Warfarin Sodium 3mg Tablet	EA	4B-3-410
+0004-28-134-K	Diclofenac Sodium SR 75mg Tablet	EA	4B-3-411
+0004-86-002-W	Theophylline SR 250mg Tablet	EA	4B-3-412
+0004-92-136-J	Finasteride 5mg Tablet	EA	4B-4-413
+0004-20-040-C	Apixaban 2.5mg Tab (ELIQUIS)	EA	4B-4-414
+0004-08-075-W	HydroxyCHLOROquine Sulfate 200mg Tablet	EA	4B-4-415
+0004-56-012-F	MetoCLOPramide 10mg Tablet	EA	4B-4-416
+0013-84-102-G	Chlorhexidine 0.05% Sachet 25mL	EA	4B-5-417
+0005-52-004-E	Sodium Bicarbonate Powder 100g	EA	4B-5-418
+0013-84-062-D	Clotrimazole 1% Solution 10mL	EA	4B-5-419
+0004-56-031-W	Diosmin 450mg, Hersperidin 50mg Tablet	EA	4B-5-420
+0015-56-032-G	TrimeBUTine 72mg/15mL Susp 250mL	BTL	4B-6-421
+0001-12-010-I	Ipratropium Br 0.5mg/2mL Inh Soln	EA	4B-6-422
+0015-08-006-F	Erythromycin 200mg/5mL Susp 60mL	BTL	4B-6-423
+0004-56-064-I	Mesalazine SR 500mg Tablet (Pentasa)	EA	4C-1-429
+0004-08-110-D	Sultamicillin 375mg Tablet (Unasyn)	EA	4C-1-430
+0004-03-42X-7	Liothyronine HCl 20mcg Tab	EA	4C-1-431
+0000-24-40X-2	LamiVUDine 100mg Tablet   	EA	4C-1-432
+0015-40-050-H	Lactulose Syrup 200mL	BTL	4C-3-437 to 439
+0000-33-80X-4	Topiramate 50mg Tablet 	EA	4D-1-442
+0012-75-18X-8	Luliconazole 5% Nail Solution 4mL (LUCONAC)	EA	4D-1-443
+0004-24-038-E	Propranolol HCl 10mg Tablet	EA	4D-1-444
+0004-28-001-H	Amitriptyline HCl 10mg Tablet	EA	4D-2-445
+0004-56-111-F	Ondansetron HCl 8mg Tablet	EA	4D-2-446
+0004-08-048-E	Tetracycline HCl 250mg Capsule	EA	4D-2-447
+0004-24-141-L	DilTIAZem HCl SR 100mg Capsule (Herbesser)	EA	4D-2-448
+0004-28-060-C	Trifluoperazine HCl 1mg Tablet	EA	4D-3-449
+0004-24-380-C	Rosuvastatin 20mg Tablet	TAB	4D-3-450
+0004-24-253-D	NiFEdipine LA 30mg Tablet	EA	4D-3-451
+0004-08-196-G	Fluconazole 150mg Capsule	EA	4D-3-452
+0004-68-080-F	Prednisolone 20mg Tablet	EA	4D-4-453 to 454
+0004-28-383-G	Mirtazapine 15mg SolTab	EA	4D-4-455
+0020-28-003-E	Diclofenac Sodium 25mg Suppository	EA	4D-4-456
+0004-88-005-H	Folic Acid 5mg Tablet	EA	4D-5-457 to 458 
+0013-84-112-D	Potassium Permanganate 0.1% Solution 100mL	BTL	4D-5-459
+0004-10-045-L	Tretinoin 10mg Cap (VESANOID)	EA	4D-5-460
+0004-28-414-L	ROPINIRole 1mg Tablet	EA	4D-6-461
+0008-91-26X-6	Finerenone 20mg Tablet (Kerendia)	EA	4D-6-462
+0010-20-028-D	Enoxaparin Sodium 60mg/0.6mL Injection (Clexane)	EA	4D-6-463
+0004-28-291-F	Levodopa 250mg, Carbidopa 25mg Tablet (CREDANIL)	EA	4E-1-469
+0005-12-004-I	Nicotine 7mg/24hr Patch (NICOTINELLTTS10)	EA	4E-1-470
+0004-10-086-E	Tamoxifen 20mg Tablet	EA	4E-1-471
+0004-24-007-E	Digoxin 62.5mcg Tablet (Lanoxin PG)	EA	4E-1-472
+7394-28-92X-7	Tenofovir Alafenamide 25mg Tab (Vemlidy)	EA	4E-2-473
+0004-24-352-D	Irbesartan 300mg Tablet	EA	4E-2-474
+0011-55-39X-8	Abrocitinib 200mg Tablet (CIBINQO)	EA	4E-2-475
+0004-28-186-C	Bromazepam 1.5mg Tablet (Lexotan)	EA	4E-2-476
+0004-12-089-K	Tizanidine 4mg Tab	EA	4E-3-477
+0045-69-63X-5	Semaglutide (RYBELSUS) 3mg Tablet	EA	4E-3-478
+0004-04-014-I	Loratadine 10mg Tablet	EA	4E-3-479
+0004-88-012-K	Thiamine HCl 10mg Tablet	EA	4E-3-480
+0004-68-122-E	Levothyroxine Sodium 100mcg Tablet (Euthyrox)	EA	4E-4-481
+0000-33-75X-5	Tolterodine Tartrate 2mg Tablet 	EA	4E-4-482
+0001-83-09X-3	Budesonide 200mcg Easyhaler 200D	EA	4E-4-483
+0004-28-366-F	Gabapentin 100mg Capsule	EA	4E-4-484
+0005-84-323-G	Gentamicin Sulf 0.1% Cr 15g	EA	4E-5-485
+2627-73-77X-2	CETIrizine HCl 5mg/5mL Solution 60mL	BTL	4E-5-486
+0013-84-095-K	Clobetasol 0.05% Scalp Application 30mL	BTL	4E-5-487
+0004-40-024-W	Sodium Chloride SR 500mg Tablet	EA	4E-5-488
+7251-71-16X-2	Paromomycin 250mg Cap	EA	4E-6-489
+0005-84-371-G	Tacrolimus 0.1% Ointment 10g (Protopic)	EA	4E-6-490
+0004-24-075-J	Atenolol 50mg Tablet	EA	4E-6-491
+0004-08-259-G	Voriconazole 200mg Tablet	EA	4E-6-492
+0004-24-034-W	Prazosin HCl 1mg Tablet	EA	5A-1-497
+0004-28-314-W	ARIPIprazole 10mg Tablet (Abilify)	EA	5A-1-498
+0004-20-002-W	Warfarin Sodium 1mg Tablet	EA	5A-1-499
+0004-08-236-L	ValACiclovir HCl 500mg Tablet	EA	5A-1-500
+0004-08-029-I	Nitrofurantoin 50mg Tablet	EA	5A-2-501
+0004-24-377-H	Sacubitril 97mg, Valsartan 103mg Tab	TAB	5A-2-502
+0004-24-144-F	DilTIAZem HCl SR 200mg Capsule (Herbesser)	EA	5A-2-503
+0004-28-064-F	Diclofenac Sodium 25mg EC Tablet	EA	5A-2-504
+0004-24-248-E	Verapamil HCl 40mg Tablet	EA	5A-3-505
+0004-24-273-W	Terazosin HCl 2mg Tablet	TAB	5A-3-506
+0020-56-011-I	Mesalazine 1g Suppository (Pentasa)	EA	5A-3-507
+0004-28-371-J	ZolpiDEM Tartrate CR 6.25mg Tablet (Stilnox)	EA	5A-3-508
+0004-24-085-G	Simvastatin 10mg Tablet	EA	5A-4-509
+0004-92-169-D	Alfuzosin HCl XL 10mg Tablet	EA	5A-4-510
+0004-28-067-K	Aspirin 100mg Tablet	EA	5A-4-511
+0004-08-159-G	Clarithromycin 500mg Tablet	EA	5A-4-512
+0005-84-166-H	Betamethasone 0.1%, Clioquinol 3% Cream 15g	EA	5A-5-513
+0015-56-023-H	Kaolin Mixture BP 100mL	BTL	5A-5-514
+0013-84-256-F	Chlorhexidine 4% Hair & Body Solution 100mL	BTL	5A-5-515
+0005-84-169-W	Coal Tar 15%, Aqueous Cream 30g	EA	5A-5-516
+0013-84-204-J	Proflavine Emulsion 100mL	BTL	5A-6-517
+0001-12-24X-7	Nicotine 21mg/24hr Patch 7s (NICOTINELL)	BOX	5A-6-518
+0007-68-008-F	Fluticasone Furoate 27.5mcg Nasal Spray 120D	EA	5A-6-519
+0013-84-094-W	Cetrimide 5% Shampoo	BTL	5A-6-520
+0004-28-013-L	ChlorproMAZINE HCl 100mg Tablet	EA	5B-1-525
+0004-08-247-J	Darunavir 800mg Tablet (Prezista)	EA	5B-1-526
+0004-28-386-D	RisperiDONE 1mg Tablet	EA	5B-1-527
+0004-24-009-L	Dipyridamole 25mg Tablet	EA	5B-1-528
+0004-28-384-F	Mirtazapine 30mg SolTab	EA	5B-2-529
+0000-29-89X-9	Pregabalin 25mg Cap 	EA	5B-2-530
+0000-24-43X-9	LAMOTRIGINE 100MG TAB	EA	5B-2-531
+0004-68-082-W	GliMEpiride 2mg Tablet (Amaryl)	EA	5B-2-532
+0000-32-90X-1	Tamsulosin HCl PR Tablet 400mcg 	EA	5B-3-533
+0004-24-079-W	Lisinopril 20mg Tablet	EA	5B-3-534
+0004-08-051-E	Doxycycline Hyclate 100mg Capsule	EA	5B-3-535
+0004-24-303-H	AmLODIPine Besilate 10mg Tablet	EA	5B-3-536
+0004-24-325-D	Atorvastatin 20mg Tablet	EA	5B-4-537
+0004-24-017-W	HydrALAzine HCl 10mg Tablet	EA	5B-4-538
+0004-68-149-C	Sitagliptin 100mg Tablet (Januvia)	EA	5B-4-539
+0008-52-009-I	Atropine Sulfate 1% Eye Drop 5mL	BTL	5B-4-540
+0004-08-070-L	Mefloquine 250mg Tablet	EA	5B-5-541
+0005-84-444-F	Mometasone 0.1% Ointment 15g (Elosone)	EA	5B-5-542
+0000-24-65X-1	LeveTIRAcetam 250mg Tablet	EA	5B-5-543
+0002-36-07X-3	Magnesium Sulf 35.4% Soln (Lemon Sweet)	BTL	5B-5-544
+0015-68-003-I	Prednisolone 10mg/5mL Syrup	BTL	5B-6-545
+0004-28-391-H	ROPINIRole PR 4mg Tablet (Requip PD 24 Hour)	EA	5C-1-553
+0000-25-83X-7	Megestrol Acetate 40mg Tablet	EA	5C-1-554
+0004-28-158-H	Sodium Valproate Chrono 200mg Tablet (Epilium)	EA	5C-1-555
+0004-68-154-G	Pioglitazone 15mg Tablet (Actos)	EA	5C-1-556
+0004-28-024-G	Indometacin 25mg Capsule	EA	5D-1-565
+0004-28-410-E	OLANzapine 10mg Orodispersible Tablet	EA	5D-1-566
+0004-08-016-G	Ethambutol HCl 100mg Tablet	EA	5D-1-567
+0004-24-242-F	Amiodarone HCl 200mg Tablet	EA	5D-1-568
+0004-12-036-C	Phenoxybenzamine 10mg Cap	EA	5D-2-569
+0004-08-076-K	Ciprofloxacin 500mg Tablet	EA	5D-2-570
+0005-12-019-F	Nicotine 25mg/16hr Patch (Nicorette)	EA	5D-2-571
+3893-62-47X-4	Desmopressin 25mcg Oral Lyophilisate	EA	5D-2-572
+0004-40-022-F	Calcium Carbonate 625mg Tablet	EA	5D-3-573
+0000-21-18X-2	Etoricoxib 90mg Tab	TAB	5D-3-574
+0004-24-090-C	Enalapril Maleate 10mg Tablet	EA	5D-3-575
+0004-24-289-F	CarveDILOL 6.25mg Tablet	EA	5D-3-576
+0005-84-104-H	Silicone Cream 50g	EA	5D-4-577
+0004-68-018-K	Norethisterone 5mg Tablet	EA	5D-4-578
+0015-40-044-C	Oral Rehydration Salts	EA	5D-4-579
+0004-28-228-W	Carbamazepine CR 400mg Tablet (Tegretol)	EA	5D-4-580
+0004-08-025-F	MetroNIDAzole 200mg Tablet	EA	5D-5-581
+0004-56-016-I	Sennosides 7.5mg Tablet (Senna)	EA	5D-5-583
+0008-52-107-I	TobraMYCIN, Dexamethasone Eye Oint 3.5g (TobraDEX)	EA	5D-6-585
+0005-84-281-H	Betamethasone Dipropionate 0.05% Cream 15g	EA	5D-6-587
+0008-52-147-H	BrinZOLamide 1% Eye Drop 5mL (Azopt)	EA	5D-6-588
+6571-07-91X-9	Sucroferric Oxyhydroxide 500mg Tablet	EA	5D-6-589
+0004-24-158-F	Ramipril 2.5mg Tablet (Tritace)	EA	5E-1-593
+0000-34-44X-3	Valsartan 80mg Tablet	EA	5E-1-594
+0004-28-118-I	Nortriptyline HCl 10mg Capsule/Tablet	EA	5E-1-595
+0001-68-002-C	Beclometasone Dipropionate 50mcg Inhaler 200D	EA	5E-1-596
+0004-56-043-F	Domperidone 10mg Tablet	EA	5E-2-597
+0005-24-001-J	Glyceryl Trinitrate TTS 5mg/24hr Patch	EA	5E-2-598
+0004-20-024-L	Clopidogrel 75mg Tablet	EA	5E-2-599 to 600
+0004-24-347-K	Losartan 100mg Tablet	EA	5E-3-601
+0004-88-008-W	PyridoXINE HCl 10mg Tablet	EA	5E-3-602
+0004-28-168-E	Naproxen Sodium 275mg Tablet	EA	5E-3-603
+0021-00-30X-2	Heparin 500U/5mL Prefilled Syr	EA	5E-3-604
+0004-56-018-E	Famotidine 20mg Tablet	EA	5E-4-605
+0015-08-026-K	Azithromycin 200mg/5mL Susp 15ML	BTL	5E-4-606
+0000-15-81X-9	Bisoprolol Fumarate 2.5mg Tab	EA	5E-4-607
+0004-08-219-K	Oseltamivir 30mg Capsule (Tamiflu)	EA	5E-4-608
+0015-28-017-K	Ibuprofen 100mg/5mL Syrup 100mL	BTL	5E-5-609
+0004-68-073-C	MetFORMIN 850mg Tablet	EA	5E-5-610
+0007-52-002-H	Mupirocin 2% Nasal Ointment 3g	EA	5E-5-611
+0001-68-023-F	Seretide 25/250mcg Evohaler 120D	EA	5E-5-612
+0005-84-095-E	HYDrocortisone 1%, Miconazole 2% Cream 15g	EA	5E-6-613
+0017-55-47X-8	Calcipotriol,Betamet Foam 60G (Enstilar)	EA	5E-6-614
+0007-52-030-C	Mometasone Furoate 50mcg Aqueous Nasal Spray 140D	EA	5E-6-615
+0033-56-78X-2	Promethazine HCl 5mg/5mL Syrup 60mL/100mL	BTL	5E-6-616
+0004-08-052-C	Aciclovir 200mg Tablet	EA	6A-1-621
+0004-28-042-E	Phenobarbital 60mg Tablet	EA	6A-1-622
+0004-24-070-I	Metoprolol Tartrate 100mg Tablet	EA	6A-1-623
+0004-28-368-D	ZolpiDEM Tartrate CR 12.5mg Tablet (Stilnox)	EA	6A-2-625
+0004-28-415-K	ROPINIRole 2mg Tablet	EA	6A-2-626
+0004-24-351-E	Irbesartan 150mg Tablet	EA	6A-2-627
+0004-24-254-C	NiFEdipine LA 60mg Tablet	EA	6A-2-628
+0004-12-003-G	Trihexyphenidyl 2mg Tablet (Benzhexol)	EA	6A-3-629
+0004-40-004-H	Furosemide 40mg Tablet	EA	6A-3-630
+0004-08-063-I	Amoxicillin 250mg Capsule	EA	6A-3-631
+0004-92-001-G	Allopurinol 100mg Tablet	EA	6A-3-632
+0004-28-055-G	Sodium Valproate 200mg Tablet	EA	6A-4-633
+0004-28-098-K	ClomiPRAMINE HCl 25mg Tablet	EA	6A-4-634
+0004-24-088-L	Fenofibrate 300mg Capsule	EA	6A-4-635
+0004-88-003-L	Ascorbic Acid 100mg Tablet	EA	6A-4-636
+0020-56-009-G	Mesalazine 500mg Suppository	EA	6A-5-637
+0013-84-090-J	Coal Tar 25% Shampoo 200mL	BTL	6A-5-638
+0005-84-167-F	Betamethasone 0.05%, Clioquinol 3% Cream 15g	EA	6A-5-639
+3166-89-66X-9	Triamcinolone Acetonide 0.1% Oral 3G/5G	EA	6A-5-640
+0001-12-044-L	Tiotropium Inhaler 2.5mcg (Spiriva Respimat)	PK	6A-6-641
+0004-52-002-G	Dequalinium Chloride 0.25mg Lozenges	EA	6A-6-642
+0005-84-336-I	Gentamicin,Clotrimazole,Betamethasone Cr (10g/15g)	EA	6A-6-643
+0000-26-95X-3	Montelukast 5mg Chewable Tablet	EA	6A-6-644
+0004-28-306-L	ARIPIprazole 15mg Tablet (Abilify)	EA	6B-1-649
+0012-20-24X-2	Paxlovid Tablet 30S	BOX	6B-1-650
+0004-24-084-I	CapTOPril 12.5mg Tablet	EA	6B-1-651
+0036-75-75X-7	Darolutamide 300mg Tablet (NUBEQA)	EA	6B-1-652
+0005-84-441-I	Gentamicin Sulf 0.1% Cr 10g	TBE	6B-2-653
+0004-68-127-F	Danazol 200mg Capsule	EA	6B-2-654
+0004-24-097-K	DilTIAZem HCl 60mg Tablet	EA	6B-2-655
+0004-12-018-E	PyridoSTIGmine Bromide 60mg Tablet	EA	6B-2-656
+0004-08-008-F	Co-Trimoxazole 80/400mg Adult Tablet	EA	6B-3-657
+0004-24-324-E	Atorvastatin 10mg Tablet	EA	6B-3-658
+0004-56-039-H	CINNArizine 25mg Tablet	EA	6B-3-659
+0004-28-116-W	Codeine Phosphate 30mg Tablet	EA	6B-3-660
+0004-28-167-G	Diclofenac Sodium 50mg EC Tablet	EA	6B-4-661
+0004-56-014-W	Prochlorperazine 5mg Tablet	EA	6B-4-662
+0000-12-80X-3	Acarbose 100mg Tablet	EA	6B-4-663
+0004-28-352-K	HydrOXYzine 10MG CAP/TAB	EA	6B-4-664
+0004-88-053-G	Vitamin D3 1000 IU Tablet	EA	6B-5-665
+0020-28-010-H	DiazePAM 5mg/2.5mL Rectal Tube	EA	6B-5-666
+0013-84-048-I	Calamine Lotion 100mL	BTL	6B-5-667
+0001-68-016-C	Seretide 50/500mcg Accuhaler 60D	EA	6B-5-668
+0005-84-105-F	Betamethasone Valerate 0.1% Cream 15g	EA	6B-6-669
+0005-84-274-E	Cocois Co Ointment 30g	EA	6B-6-670
+0013-84-053-E	Proflavine Hemisulfate 1:1,000 Lotion (50mL/75mL)	BTL	6B-6-671
+0001-79-32X-6	SERTACONAZOLE 2% CREAM 20G	EA	6B-6-672
+0004-28-369-C	Venlafaxine XR 75mg Tablet	EA	6C-1-677
+0004-92-055-F	Tacrolimus 0.5mg Capsule (Prograf)	EA	6C-1-678
+9501-53-01X-4	Vortioxetine 5mg Tablet	EA	6C-1-679
+0000-34-37X-3	ValGANciclovir 450MG TAB	EA	6C-1-680
+0004-28-287-H	Levodopa 100mg, Benserazide HBS 25mg Cap (MAdopar)	EA	6D-1-689
+0005-84-372-F	Tacrolimus 0.03% Ointment 10g (Protopic)	EA	6D-1-690
+3246-86-51X-5	Symbicort 80/2.25MCG RAPIhaler 120D	EA	6D-1-691
+6630-96-33X-4	Doxylamine 10mg, Pyridoxine 10mg DR Tab (DICLECTIN)	EA	6D-1-692
+0004-92-154-J	RivaROXaban 20mg Tablet (Xarelto)	EA	6D-2-693
+0004-28-143-J	FluOXETine 10mg Capsule	EA	6D-2-694
+0004-24-302-I	AmLODIPine Besilate 5mg Tablet	EA	6D-2-695 to 696
+0004-88-054-F	Mecobalamin 500mcg Capsule	EA	6D-3-697
+0004-24-003-W	Lisinopril 5mg Tablet	EA	6D-3-698
+0004-08-004-C	CefALExin 250mg Capsule	EA	6D-3-699
+0004-28-016-F	DiazePAM 5mg Tablet	EA	6D-3-700
+0004-68-019-I	Prednisolone 1mg Tablet	EA	6D-4-701
+0004-08-244-W	Dolutegravir 50mg Tablet (Tivicay)	EA	6D-4-702
+0004-88-007-D	Vitamin B1 100mg, B6 200mg, B12 200mcg Tablet	EA	6D-4-703
+0004-24-346-L	Losartan 50mg Tablet	EA	6D-4-704
+0005-84-277-J	Betamethasone Valerate 0.025% Ointment 30g	EA	6D-5-705
+0005-24-007-F	Glyceryl Trinitrate 0.2% Ointment 30g (Rectogesic)	EA	6D-5-706
+0015-40-004-W	Dextrose 75g Soln 296mL	BTL	6D-5-707
+0015-04-021-H	Chlorphenamine 4mg/5mL Syrup (100mL/120mL)	BTL	6D-5-708
+0004-20-011-L	Anagrelide HCl 500mcg Capsule (AGRYLIN)	EA	6D-6-709
+0015-56-022-J	Paraffin Liquid Co Emulsion 100mL	BTL	6D-6-710
+6745-01-57X-0	Vonoprazan 20mg Tablet	EA	6D-6-711
+0004-08-235-W	Rilpivirine 25mg Tablet (Edurant)	EA	6D-6-712
+0004-28-249-E	ZopiCLONE 7.5mg Tablet	EA	6E-1-717
+0005-12-017-H	Rivastigmine 9.5mg/24H Patch (Exelon)	EA	6E-1-718
+0004-08-012-D	Dapsone 100mg Tablet	EA	6E-1-719
+0004-24-362-C	Candesartan Cilexetil 8mg Tablet	EA	6E-1-720
+0004-68-029-F	Tolbutamide 500mg Tablet	EA	6E-2-721
+0004-28-169-C	ZOLMitriptan 2.5mg Dispersible Tablet (Rapimelt)	EA	6E-2-722
+0000-29-92X-4	Pregabalin 75mg Cap 	EA	6E-2-723
+0004-28-047-F	Phenytoin Sodium 100mg Capsule	EA	6E-2-724
+0004-24-089-J	Enalapril Maleate 5mg Tablet	EA	6E-3-725
+0004-56-129-H	ESomeprazole 40mg Tablet	EA	6E-3-726
+0004-24-247-G	Simvastatin 20mg Tablet	EA	6E-3-727
+0020-84-001-D	Clotrimazole 100mg Pessary	EA	6E-3-728
+6266-68-68X-0	Ceftazidime 2g + Avibactam 0.5g Inj	EA	6E-4-729
+0004-24-354-W	Sildenafil 100mg Tablet	EA	6E-4-730
+0004-10-112-D	Enzalutamide 40mg Cap (XTANDI)	EA	6E-4-731
+0004-56-004-E	Bisacodyl EC 5mg Tablet	EA	6E-4-732
+0013-84-059-D	Betamethasone Valerate 0.1% Scalp Lotion 80mL	BTL	6E-5-733
+0015-08-011-W	Cloxacillin 125mg/5mL Suspension 60mL	BTL	6E-5-734
+0015-86-003-G	Theophylline 80mg/15mL Syrup 5L (Nuelin) 500mL	BTL	6E-5-735
+0013-84-051-I	Methyl Salicylate 25% Liniment	BTL	6E-5-736
+0005-84-060-W	HYDrocortisone 1%, Clioquinol 3% Cream 15g	EA	6E-6-737
+0000-33-76X-7	Tolterodine Tartrate SR 4mg Cap	EA	6E-6-738
+		EA	6E-6-739
+0000-22-72X-5	Glycerol 2g Suppository	EA	6E-6-740
+0004-08-258-H	Moxifloxacin 400mg Tab	EA	6E-7-741
+0008-43-86X-1	Umeclidinium 62.5Mcg Ellipta 30'S (Incruse)	EA	6E-7-742
+0004-28-061-L	Trifluoperazine HCl 5mg Tablet	EA	7A-1-745
+0002-84-001-F	Ethyl Chloride Spray	EA	7A-1-746
+0010-19-51X-7	Trelegy Ellipta 100/62.5/25mcg 30D	EA	7A-1-747
+0002-12-58X-1	Nebivolol HCl 5mg	EA	7A-1-748
+0004-20-004-I	Warfarin Sodium 5mg Tablet	EA	7A-1-749
+0004-28-181-W	ROPINIRole 0.25mg Tablet (Requip)	EA	7A-1-750
+0004-08-117-L	LamiVUDine 150mg Tablet (Epivir)	EA	7A-2-751
+0004-28-243-F	ALPrazolam 0.25mg Tablet	EA	7A-2-752
+0000-34-71X-7	Voriconazole 50mg Tablet 	EA	7A-2-753
+0014-84-006-G	Hydrocolloid 10cm X 10cm Dressing	EA	7A-2-754 to 755
+0004-92-152-L	Prucalopride 2mg Tablet (Resolor)	EA	7A-2-756
+0004-28-189-H	LamoTRIGine 50mg Tablet (Lamictal)	EA	7A-3-757
+0000-25-06X-5	Linezolid 600mg Tablet	EA	7A-3-758
+0007-52-043-E	Ciprobay HC Otic Suspension 10mL	EA	7A-3-759
+0000-18-14X-5	Clofazimine 50mg Cap	EA	7A-3-760
+0004-92-183-H	CicloSPORIN 25mg Capsule (Deximune)	EA	7A-3-761
+0004-92-159-E	Cinacalcet HCl 25mg Tab (REGPARA)	EA	7A-3-762
+0000-74-64X-4	Ofloxacin 0.3% Ear Drop 5mL	EA	7A-4-763
+0004-68-058-J	MedroxyPROGESTERone Acetate 10mg Tab	EA	7A-4-764
+0037-26-00X-7	Minoxidil 2.5mg Tab	EA	7A-4-765
+0001-12-003-F	Salbutamol Sulfate 100mcg Inhaler 200d	EA	7A-4-766 to 768
+0005-84-322-I	Miconazole 2% Powder 20g	EA	7A-5-769 to 770
+0010-08-104-H	Sultamicillin 3g Inj (Unasyn)	EA	7A-5-771
+0008-52-114-L	Prednisolone 1% Eye Drop 5mL (Pred Forte)	EA	7A-5-772
+0004-92-189-W	Tofacitinib 5mg Tab (XELJANZ)	EA	7A-5-773
+0501-21-83X-1	Umeclidinium Vilanterol Pwd 62.5/25mcg	EA	7A-6-775 to 776
+0015-56-054-H	Ispaghula Husk Granule Sachet 3.5g	EA	7A-6-778
+0023-76-56X-5	Ferric Derisomaltose 500mg/5mL Inj (MONOFER)	EA	7A-6-779
+0013-84-046-W	Calamine Et Menthol Lotion 100mL	BTL	7A-6-780
+0004-28-288-F	Levodopa 100mg, Carbidopa 25mg Tablet	EA	7B-1-787
+0004-92-092-K	TrimetAZIDINE 35mg MR Tablet	EA	7B-1-788
+0000-24-08X-0	Ivermectin 3mg Tablet 	EA	7B-1-789
+0004-08-030-W	Ketoconazole 200mg Tablet	EA	7B-1-790
+0004-12-044-D	PyridoSTIGmine Bromide 10mg Tablet (Mestinon)	EA	7B-1-791 to 792
+0004-92-141-C	Finasteride 1mg Tablet	EA	7B-2-793
+0000-13-27X-1	Albendazole 400mg Tablet	EA	7B-2-794
+0004-84-018-J	ISOTretinoin 5mg Capsule (Oratane)	EA	7B-2-795
+0008-52-123-K	Dexamethasone 0.1% Eye Drop 5mL (Maxidex)	EA	7B-2-796
+0004-20-026-J	RivaROXaban 10mg Tablet (Xarelto)	EA	7B-2-797
+0015-56-078-C	Mesalazine PR Granules 2G (Pentasa)	EA	7B-2-798
+0005-84-129-C	Clotrimazole 1% Cream (15g/20g)	EA	7B-3-799
+0007-52-056-G	Olive Oil Ear Drop 10mL	EA	7B-3-800
+0004-40-060-J	Sevelamer Carbonate 800mg Tab (Renvela)	EA	7B-3-801
+0013-84-057-H	Castellani's Paint 50mL	BTL	7B-3-802
+0008-52-049-H	Sodium Chloride 5% Eye Drop (10mL/15mL)	EA	7B-3-803
+0005-84-147-L	Salicylic Acid 2% Cream 30g	EA	7B-3-804
+0004-20-041-W	Apixaban 5mg Tab (ELIQUIS)	EA	7B-4-805 to 806
+0004-24-149-G	Propafenone HCl F/C 150mg Tab (Rytmonorm)	EA	7B-4-807
+0004-28-123-E	CloZAPine 25mg Tablet	EA	7B-4-808
+0004-28-108-L	Sulpiride 200mg Tablet	EA	7B-4-809
+0007-52-070-C	Benzydamine 3mg/ml Throat Spray (Difflam)	BTL	7B-4-810
+2608-93-70X-5	Dextromethorphan 15mg/5mL Syrup 90ML/100ML	BTL	7B-5-811 to 814
+0005-84-168-D	White Soft Paraffin 100g	EA	7B-5-815
+8777-42-84X-8	Octenidine HCl Nasal Gel 6ml (OCTENISAN)	EA	7B-6-817
+0005-84-176-E	Liquid Paraffin, Sterile 5g	EA	7B-6-819
+0013-84-226-I	Acetic Acid 5% Soln 100ML	BTL	7B-6-820
+0025-80-00X-9	Sod Zirconium Cyclosilicate Powder 10G	EA	7B-6-821
+0004-08-220-H	Oseltamivir 45mg Capsule (Tamiflu)	EA	7C-1-830
+0004-68-195-W	Empagliflozin 10mg Tablet (Jardiance)	EA	7C-1-831
+0004-84-016-L	ISOTretinoin 10mg Capsule 	EA	7C-1-832
+0007-68-006-H	Desmopressin 10mcg/Dose Nasal Spray 50D	EA	7C-1-833
+0004-24-010-E	Dipyridamole 75mg Tablet	EA	7C-1-834
+0004-24-098-I	DilTIAZem HCl SR 90mg Capsule (Herbesser)	EA	7C-2-835
+0004-24-035-K	Prazosin HCl 5mg Tablet	EA	7C-2-836
+0004-28-053-K	CloNAZEPam 0.5mg Tablet	EA	7C-2-837
+0004-92-035-L	Cabergoline 0.5mg Tab (DOSTINEX)	EA	7C-2-838
+0004-86-011-L	Oxybutynin 5mg Tablet	EA	7C-2-839
+0004-24-023-G	Metoprolol Tartrate 50mg Tablet	TAB	7C-2-840
+0000-13-15X-3	Acitretin 25mg Cap	EA	7C-3-841
+0004-92-053-J	CicloSPORIN 10mg Capsule (Neoral)	EA	7C-3-842
+0004-28-010-G	Ibuprofen 200mg Tablet	EA	7C-3-843
+0000-72-17X-6	Mometasone Furoate 0.1% Cream 15g	EA	7C-3-844
+0008-52-028-E	Hypromellose 0.3% Eye Drop 10mL	EA	7C-3-845 to 846
+0015-56-057-W	Colonic Lavage Powder Sachet	EA	7C-4-847 to 850
+0002-09-70X-5	Ivabradine 5mg Tablet	EA	7C-4-851 to 852
+0008-52-003-J	BriMONidine Tartrate 1.5mg/mL Eye Drop 5mL	EA	7C-5-853
+0008-52-077-C	Tropicamide 1% Eyedrop 0.5mL	EA	7C-5-854
+0015-24-005-E	Colestyramine 4g Powder	EA	7C-5-855
+0001-68-031-E	Symbicort 160/4.5mcg Turbuhaler 120D	EA	7C-5-856
+5815-83-75X-1	Betamet 0.05% Salicylic 3% Ointment 15g	EA	7C-5-858
+8135-32-77X-8	Ketoprofen 30mg Plaster 6's	PK	7C-6-859 to 862
+0013-84-110-H	Iodine 1% Tincture 45mL	BTL	7C-6-863
+0013-84-060-H	Malathion 0.5% Lotion 50mL	BTL	7C-6-864
+0008-52-017-J	Chloramphenicol 1% Eye Ointment (3g/5g)	EA	7D-1-871
+0008-52-251-L	TobraMYCIN 0.3% Eye Drop 5mL	EA	7D-1-872
+0008-52-211-C	LevoFLOXacin 0.5% Eye Drop 5mL (Cravit)	EA	7D-1-873
+0010-10-125-C	Leuprorelin Depot 30mg Inj (Lucrin)	EA	7D-1-874
+0019-72-001-I	Lidocaine HCl 10% Spray 50mL	EA	7D-1-875
+0007-52-015-J	Oxymetazoline 0.025% Nasal Drop (10mL/15mL)	EA	7D-1-876
+0008-52-144-C	Aciclovir 3% Eye Ointment 4.5g	EA	7E-1-887
+0004-86-029-F	Mirabegron 50mg Tablet	EA	7E-1-888
+0008-52-257-F	Ciprofloxacin 0.3% Eye/Ear Drop 5mL	EA	7E-1-889
+0008-52-089-G	Tetracaine 1% P/F Eye Drop 0.5mL (Amethocaine)	EA	7E-1-890
+0001-68-024-D	Seretide 25/50mcg Evohaler 120D	EA	7E-1-891
+0008-52-024-W	Sodium Cromoglicate 2% Eye Drop 10mL	EA	7E-2-892
+6967-02-27X-3	HYDrocortisone ACEP 0.127% LIPO Cream 30g	EA	7E-2-893
+0008-52-057-I	Naphcon-A Eye Drop 15mL	EA	7E-2-894
+0005-84-400-C	HYDrocortisone 1% Ointment 15g	EA	7E-2-895
+0008-52-122-W	Dexamethasone 0.1% Eye Ointment 3.5g (Maxidex)	EA	7E-2-896
+0008-52-105-W	Vidisic Eye Gel 10g	EA	7E-2-897
+0000-74-86X-4	Olopatadine 0.1% Eye Drop 5mL (Patanol)	EA	7E-3-898
+0008-52-022-F	Gentamicin Sulfate 0.3% Eye/Ear Drop 5mL	EA	7E-3-899
+0008-52-175-C	Tears Naturale II Eye Drop 15mL	EA	7E-3-900
+0007-52-041-I	Polydexa Ear Drop 10.5mL	EA	7E-3-901
+0020-28-008-F	Paracetamol 125mg Suppository	EA	7E-3-902
+0001-68-014-G	Fluticasone 125mcg Evohaler 120D	EA	7E-3-903
+0005-84-155-W	Coal Tar 5%, Aqueous Cream 30g	EA	7E-4-904
+0008-52-128-L	Fusidic Acid 1%  Eye Drop 5g (Fucithalmic)	EA	7E-4-905
+0007-52-019-W	Oxymetazoline 0.01% Nasal Drop 5mL (Iliadin)	EA	7E-4-906
+0002-96-57X-2	Calcipotriol, Betamethasone Gel 60g	EA	7E-4-907
+0008-52-042-K	Pilocarpine HCl 2% Eye Drop 15mL	EA	7E-4-908
+0008-52-224-E	Chlortetracycline 1% Eye Ointment 3.5g	EA	7E-4-909
+0015-56-021-L	Magnesium Trisilicate Mixture BP 200mL	BTL	7E-5-910 to 911
+0005-84-116-L	Betamethasone Valerate 0.1% Ointment 15g	EA	7E-5-912
+0013-84-055-L	Salicylic Acid Corn Colloidon (10mL/15mL)	EA	7E-5-913
+0020-56-015-L	Sodium Phosphate Enema Adult 133mL (Fleet)	EA	7E-5-914 to 915
+0005-84-141-W	Lidocaine 5% Patch	EA	7E-6-916 to 917
+0015-99-009-W	Macrogol 4000 Oral Powder 10g (Forlax)	EA	7E-6-918 to 919
+0005-84-124-W	Urea 10% Cream 100g	EA	7E-6-920 to 921
+0004-56-103-C	Bismuth Subcitrate 120mg Tab	EA	7F-1-928
+0005-84-240-K	Isoconazole 1%, Diflucortilone 0.1% Cream 10G (Travocort)	EA	7F-1-929
+0008-52-061-G	Fluorometholone 0.1% Eye Drop 5mL	EA	7F-1-930
+0004-04-061-I	Bilastine 20mg Tab	EA	7F-1-931
+0008-52-014-E	Betamethasone 0.1% Eye/Ear/Nose Drop (5mL/10mL)	EA	7F-1-932
+0008-52-048-J	Sodium Chloride 0.9% Eye Drop 10mL	EA	7F-1-933
+0008-52-108-G	TobraMYCIN, Dexamethasone Eye Drop 5mL (TobraDEX)	EA	7F-2-934
+0008-52-157-E	Ketorolac 0.5% Eye Drop 5mL	BTL	7F-2-935
+0008-52-086-W	Duratears Eye Ointment 3.5g	EA	7F-2-936
+0008-52-202-D	Homatropine 2% Eye Drop 15mL	EA	7F-2-937
+0005-84-341-E	Fusidic 2%, Betamethasone Diprop 0.064% Cr 15g	EA	7F-2-938
+0005-84-100-E	Clobetasol Propionate 0.05% Ointment 15g	EA	7F-2-939
+0000-11-29X-4	Sod Polystyrene Sulfonate Susp 60mL	BTL	7F-3-940 to 945
+0008-52-070-F	Timolol Maleate 0.5% Eye Drop 5mL	EA	7F-4-946
+0005-84-373-E	Betamethasone Dipropionate 0.05% Ointment	EA	7F-4-947
+0000-28-53X-2	Paracetamol 250mg Suppository	EA	7F-4-948
+0004-24-383-K	Telmisartan 80mg Tablet	EA	7F-4-949
+0001-12-048-H	Ipratropium Bromide 20mcg Inhaler	EA	7F-4-950
+0013-84-267-D	Clindamycin 1% Topical Lotion 60mL (Dalacin-T)	BTL	7F-4-951
+0010-28-038-E	Magnesium Sulfate 49.3% Injection 5mL	EA	7F-5-952 to 953
+0004-92-107-L	Glucosamine Sulfate (Cryst) 500mg Capsule	EA	7F-5-954 to 955
+0015-08-017-L	Nystatin 100,000 U/mL Suspension 100mL	BTL	7F-5-956 to 957
+0005-12-002-W	Nicotine 14mg/24Hr Patch (NICOTINELL) 7S	EA	7F-6-958
+0707-00-021-R	Sn Secura Extra Protective Cr 92g	TBE	7F-6-959
+0020-84-016-W	Proctosedyl Ointment 15g	EA	7F-6-960
+0715-00-060-R	3M Cavilon Spray 3346E 28mL	BTL	7F-6-961
+0707-00-001-R	Ego Qv Cream 100G	TBE	7F-6-962
+0004-10-011-G	Methotrexate 2.5mg Tablet	EA	7G-1-970
+0004-92-014-I	AzaTHIOprine 50mg Tablet	EA	7G-1-972
+0004-10-043-E	HydroxyCARBAmide 500mg Capsule (Hydrine)	EA	7G-1-973
+0004-10-119-H	Nintedanib 150mg Capsule (OFEV)	EA	7G-1-974
+0003-95-85X-8	Abiraterone Acetate 250mg Tab (Abiranat)	EA	7G-2-976
+0010-28-049-K	ZUClopentixol Decanoate 200mg/mL Injection	EA	7G-2-977
+0004-08-257-I	Flucytosine 500mg Tab	TAB	7G-2-978
+0010-24-015-D	Procainamide Hcl 1000mg/10mL Inj	EA	7G-2-979
+0000-33-14X-9	TerbiNAFine 250mg Tab	EA	7G-2-980
+1079-56-94X-1	Sofosbuvir,Velpatasvir 400/100mg Tablet	EA	7G-2-981
+0005-92-003-G	Talcum Powder Sterile	EA	7G-3-982
+0004-68-118-G	ClomiFENE Citrate 50mg Tablet	EA	7G-3-983
+0001-68-026-K	Beclometasone Dipr 250mcg Inh 200D	EA	7G-3-984
+0013-84-039-J	Lidocaine Hcl 2% Viscous Soln 100Ml/120Ml	BTL	7G-3-985
+0008-52-278-C	Ganfort Eye Drop 3mL	EA	7G-3-986
+0725-88-14X-4	Glyceryl Trinit S/L 0.5mg Tablet 30'S	BTL	7G-3-987
+0000-24-59X-7	LeFLUnomide 20mg Tab 	EA	7G-4-988
+0000-13-93X-7	Alverine 60mg Simethicone 300mg Capsule	EA	7G-4-989
+0004-08-228-K	Darunavir 600mg Tablet (Prezista)	EA	7G-4-990
+0004-08-241-E	RiFAXimin 550mg Tab	EA	7G-4-991
+0004-08-056-F	Neomycin Sulfate 500mg Tablet	EA	7G-4-992
+9131-04-71X-4	BrinZOLamide 1%, BriMONidine 0.2% ED 5ML	EA	7G-4-993
+0013-84-126-D	Ketoconazole 2% Shampoo 120mL	BTL	7G-5-994
+0005-84-157-I	Coal Tar 10%, Aqueous Cream 30g	EA	7G-5-995
+0010-68-027-H	Vasopressin 20 IU Injection 1mL	EA	7G-5-996
+0595-54-73X-0	Ivermectin 10mg/g Cream 30G	EA	7G-5-997
+0010-92-176-I	Zoledronic Acid 4mg Injection	EA	7G-5-998 to 999
+0020-56-010-K	Mesalazine 2g/30mL Enema	EA	7G-6-1000 to 1001
+0005-84-007-F	Lidocaine HCl 2% Gel 10g	EA	7G-6-1002 to 1003
+0015-48-024-W	Guaifenesin 100mg/5mL Syrup 100mL	BTL	7G-6-1004 to 1005
+2084-79-60X-5	Alcohol 96% PF Injection 10mL	EA	8A-1-1012
+0010-08-089-K	Ganciclovir 500mg Inj (Cymevene)	EA	8A-1-1013
+0010-24-014-F	Dipyridamole 10mg/2mL Injection	EA	8A-1-1014
+0010-44-005-F	Hyaluronidase 1,500 IU Injection 1mL	EA	8A-1-1015
+0010-72-039-W	Lidocaine 2%, EpiNEPHrine 1:80,000 Injection 1.8mL	EA	8A-1-1016
+0010-36-025-G	Patent Blue 50mg/2mL Injection	EA	8A-1-1017
+0010-40-050-C	Water For Injection 20mL/25mL	EA	8A-2-1018
+0010-64-003-I	Desferrioxamine 500mg Injection	EA	8A-2-1019
+6158-07-98X-0	Indocyanine Green 25mg Injection (ICG)	EA	8A-2-1020
+0010-24-021-I	Sodium Tetradecyl 3% Injection 2mL	EA	8A-2-1021
+0003-96-66X-2	Acetazolamide Sod 500mg Injection	EA	8A-2-1022
+0010-72-024-E	BUPivacaine HCl 0.5% Injection 4mL	EA	8A-2-1023
+0010-08-002-E	Amikacin 500mg/2mL Injection	EA	8A-3-1024
+0010-88-005-F	Phytomenadione 10mg/mL Injection (Vitamin K)	EA	8A-3-1025
+0010-24-078-W	NiCARdipine HCl 25mg/10mL Inj	EA	8A-3-1026
+0010-08-093-I	Pentamidine 300mg Injection (Pentacarinet)	EA	8A-3-1027
+0010-72-011-C	Lidocaine HCl 2% P/F Injection 20mL	EA	8A-3-1028
+0010-24-035-I	DilTIAZem HCl 10mg Injection	EA	8A-3-1029
+0010-40-025-I	Sodium Chloride 20% Injection 10mL	EA	8A-4-1030
+0023-15-24X-7	Fosfomycin Sodium 4G Injection	EA	8A-4-1031
+0010-08-061-K	CefaZOLin 1g Injection	EA	8A-4-1032
+0010-68-002-W	Triamcinolone Acetate 40mg/mL Injection	EA	8A-4-1033
+0010-08-103-J	Voriconazole 200mg IV Injection (Vfend)	EA	8A-4-1034
+0010-24-023-E	Sodium Nitroprusside 50mg Injection	EA	8A-4-1035
+0009-40-025-I	Sodium Bicarbonate 8.4% Injection 250mL	EA	8A-5-1036
+0010-92-123-F	Acetylcysteine 5g/25mL Injection	EA	8A-5-1038
+0010-08-043-W	Vancomycin 500mg Injection	EA	8A-5-1039
+0023-63-73X-7	Remdesivir 100mg  Injection	EA	8A-5-1040
+0010-92-174-K	Sodium Hyaluronate 22mg/mL Inj (Monovisc) 4mL	EA	8A-5-1041
+0010-08-003-C	Ampicillin 500mg Injection	EA	8A-6-1042 to 1045
+0010-08-004-L	Co-Trimoxazole 80/400mg Injection 5mL	EA	8A-6-1046 to 1047
+0009-40-130-G	Smofkabiven with Electrolyte 1L	EA	8A-7-1048 to 1053
+0010-64-001-W	Dimercaprol 100mg/2mL Injection (BAL)	EA	8B-1-1054
+0010-24-029-D	Esmolol HCl 100mg/10mL Injection	EA	8B-1-1055
+0010-24-032-D	Flecainide Acetate 150mg/15mL Injection	EA	8B-1-1056
+0005-59-47X-5	Methylthioninium 0.5% Injection 10mL (Meth Blue)	EA	8B-1-1057
+0010-92-101-J	Pralidoxime Chloride 500mg/10mL Injection (PAM)	EA	8B-1-1058
+0013-40-011-C	Sodium Citrate 4% Anticoagulant Solution 5mL	EA	8B-1-1059
+0010-24-059-C	Metoprolol 5mg/5mL Injection	EA	8B-2-1060
+0010-04-002-C	Promethazine HCl 50mg/2mL Injection	EA	8B-2-1061
+0010-28-058-J	Thiopental Sodium 0.5g Injection	EA	8B-2-1062
+0010-28-051-W	Propofol 200mg/20mL Injection	EA	8B-2-1063
+0010-24-004-I	Digoxin 500mcg/2mL Injection (Lanoxin)	EA	8B-2-1065
+0015-67-00X-9	Phenylephrine 500mcg/10ml Injection	EA	8B-3-1066
+0010-12-029-I	DOBUTamine 250mg Injection (5mL/20mL)	EA	8B-3-1067
+0009-40-064-J	Fat Emulsion 20% With MCT/LCT 500mL	EA	8B-3-1068
+0010-08-108-K	Polymyxin B 500,000 U Injection	EA	8B-3-1069
+0010-68-072-C	Levothyroxine Sodium 500mcg Injection	EA	8B-3-1070
+0010-92-005-H	Sodium Nitrite 300mg/10mL Injection	EA	8B-3-1071
+0010-40-014-C	Trace Elements Solution 10mL	EA	8B-4-1072
+0003-96-11X-8	Dexmedetomidine 200mcg/2mL Inj	EA	8B-4-1073
+0010-08-148-W	Isoniazid 500mg Injection	EA	8B-4-1074
+0010-08-180-F	Imipenem 500mg,Cilastin 500mg Injection	EA	8B-4-1075
+0010-40-012-G	Sodium Chloride 0.9% Injection 20mL	EA	8B-4-1076
+0010-92-011-W	Mesna 400mg/4mL Inj (Uromitrexan)	EA	8B-4-1077
+0010-20-040-C	Enoxaparin Sodium 80mg/0.8mL Injection (Clexane)	EA	8B-5-1078 to 1079
+0010-40-030-E	Sodium 2mmol, Phosphate 1mmol Injection 20mL	EA	8B-5-1080 to 1081
+0010-28-057-L	Midazolam 5mg/5mL Injection	EA	8B-5-1082 to 1083
+0009-40-065-H	Gelofusine Infusion 500mL	EA	8B-6-1084
+0009-40-029-L	Sodium Chloride 0.9% Infusion 500mL Bottle	EA	8B-6-1085
+0010-12-041-H	Norepinephrine 4mg/4mL Injection	EA	8B-6-1086 to 1087
+0010-68-006-E	Dexamethasone 4mg/mL P/F Injection	EA	8B-6-1088 to 1089
+0011-40-028-G	Sodium Chloride 0.9% Irrigation 3L	EA	8B-7-1090 to 1091
+0010-40-038-H	Potassium Chloride Premixed 10mmol/100mL WFI	EA	8B-7-1092 to 1093
+0009-40-012-G	Dextrose 5%, NaCL 0.9% Infusion 500mL	EA	8B-7-1094
+0009-40-062-C	Sodium Chloride 0.9% Injection 100mL Bottle	EA	8B-7-1095
+0010-12-036-L	EpHEDrine Sulphate 30mg/mL Injection	EA	8C-1-1096
+0010-28-006-G	FLUpentixol Decanoate 20mg/mL Injection	EA	8C-1-1097
+0023-85-00X-2	Lidocaine HCl 1% P/F Injection 30mL	EA	8C-1-1098
+0010-08-096-C	Artesunate 60mg Injection	EA	8C-1-1099
+0010-28-056-C	Flumazenil 0.5mg/5mL Injection	EA	8C-1-1100
+0010-68-032-D	Sod Iodide 10% Inj	EA	8C-1-1101
+0010-24-052-I	HydrALAzine 20mg/mL Injection	EA	8C-2-1102
+0010-20-036-E	Urokinase 60,000 IU Injection	EA	8C-2-1103
+0003-96-97X-2	Daptomycin 500mg Injection	EA	8C-2-1104
+0010-08-129-C	Colistin Sulf 1 MIU Inj (Colomycin)	EA	8C-2-1105
+0010-68-037-E	Triamcinolone Acetate 50mg/5mL Injection	EA	8C-2-1106
+0010-88-009-I	Cyanocobalamin 10mg/10mL Injection (Vitamin B12)	EA	8C-2-1107
+0010-24-066-E	Adenosine 6mg/2mL Injection	EA	8C-3-1108
+0010-20-005-E	Protamine Sulfate 50mg/5mL Injection	EA	8C-3-1109
+0010-08-020-C	Gentamicin Sulfate 80mg/2mL Injection	EA	8C-3-1110
+0010-08-005-J	BENZATHINE Benzylpenicillin 2.4 MU Injection	EA	8C-3-1111
+0010-68-033-W	MethylPREDNISolone Sodium Succinate 1g Injection	EA	8C-3-1112
+0000-90-15X-5	Zoledronic Acid 5MG INF 100mL	EA	8C-3-1113
+0010-28-043-L	Haloperidol 5mg Injection	EA	8C-4-1114
+0010-88-021-H	Multivitamin Concentrated for Infusion (Adult)	EA	8C-4-1115
+0010-92-008-W	CicloSPORIN 50mg/mL Injection (Sandimmun)	EA	8C-4-1116
+0010-08-038-F	CeftriaXONE Sodium 1g Injection	EA	8C-4-1117
+0010-72-029-F	ROPivacaine HCl 0.2% Injection 200mL (Naropin)	EA	8C-4-1118 to 1119
+0010-20-122-E	Iron (Carboxymaltose) 500mg/10mL Injection (Ferinject)	EA	8C-5-1120 to 1121
+0010-08-160-H	Clindamycin 300mg/2mL Injection	EA	8C-5-1122 to 1123
+0010-08-045-I	Aciclovir 250mg/10mL Injection	EA	8C-5-1124 to 1125
+0010-08-015-G	Erythromycin Lactobionate 500mg Injection	EA	8C-6-1126 to 1127
+0000-39-00X-5	LevoFLOXacin 500mg/100mL Injection (Fresenius Kabi)	EA	8C-6-1128 to 1131
+0000-68-58X-9	Linezolid 600mg/300mL Injection	EA	8C-7-1132 to 1133
+0009-40-019-D	Dextrose 50% Infusion 500mL	EA	8C-7-1134 to 1135
+0010-40-055-I	Potassium Chloride 10mmol/500mL in Dextrose 5	EA	8C-7-1136 to 1137
+0010-72-017-W	BUPivacaine HCl 0.5% Injection 10mL	EA	8D-1-1138
+0010-28-003-W	DiazePAM 10mg/2mL Injection	EA	8D-1-1139
+0010-28-060-L	Etomidate 20mg/10mL Injection	EA	8D-1-1140
+0010-08-127-G	Azithromycin 500mg Injection (Zithromax)	EA	8D-1-1141
+0010-12-019-L	Neostigmine Methylsulfate 2.5mg/mL Injection	EA	8D-1-1142
+0010-12-072-K	Glycopyrrolate 0.2mg/mL Injection	EA	8D-1-1143
+0010-56-003-E	Prochlorperazine 12.5mg/mL Injection	EA	8E-1-1153
+0010-28-066-K	Ketorolac Tromethamine 30mg/mL Injection	EA	8E-1-1154
+0010-24-081-H	Epoprostenol 1.5mg Inj (Veletri)	EA	8E-1-1155
+0010-08-107-W	RifAMPicin 600mg Injection	EA	8E-1-1156
+0010-24-034-K	NiMOdipine 10mg/50mL Inj (Nimotop)	EA	8E-1-1157
+0010-12-005-L	Atropine Sulfate 600mcg/mL Injection	EA	8E-1-1158
+0003-97-15X-6	ESomeprazole 40mg Injection	EA	8E-2-1159 to 1164
+0010-08-017-C	CeftaZIDIME Pentahydrate 1g Injection	EA	8E-4-1171 to 1175
+0010-68-042-L	Nandrolone 25mg/mL Injection	EA	8E-4-1176
+0010-08-079-C	Ciprofloxacin 200mg/100mL Injection	EA	8E-5-1177 to 1178
+0003-19-42X-3	Sod Valproate 400mg/4mL Injection	EA	8E-5-1179 to 1180
+0010-40-002-J	Calcium Gluconate 10% Injection 10mL	EA	8E-5-1181 to 1182
+0003-97-36X-6	LeveTIRAcetam 500mg/5mL Injection	EA	8E-6-1183 to 1184
+0010-68-049-I	Somatostatin 3mg Injection	EA	8E-6-1185 to 1186
+0010-40-041-C	Potassium Chloride Premixed 20mmol/100mL WFI	EA	8E-6-1187 to 1188
+0009-40-017-H	Dextrose 20% Infusion 500mL	EA	8E-7-1189 to 1190
+0009-40-021-F	Mannitol 20% Injection 250mL	EA	8E-7-1191 to 1192
+0008-52-050-L	Sodium Chloride 0.9% Irrigation 100mL	BTL	8E-7-1193 to 1194
+0010-08-159-K	Piperacillin 4g, Tazobactam Injection	EA	8F-1-1195
+0010-64-006-G	Calcium Sodium Edetate 500mg/10mL Injection	EA	8F-1-1196
+0010-56-025-E	OMEprazole 40mg Injection	EA	8F-1-1197
+0010-28-048-W	FLUpentixol Decanoate 40mg/2mL Injection	EA	8F-1-1198
+0010-80-119-D	Digitalis Antidote 40mg Injection	EA	8F-1-1199
+0010-04-006-F	DiphenhydrAMINE HCl 50mg/mL Injection	EA	8F-1-1200
+0010-24-011-L	Verapamil HCl 5mg/2mL Injection	EA	8F-2-1201
+0010-08-155-D	Co-Amoxiclav 1.2g Injection	EA	8F-2-1202
+0010-88-028-H	Ascorbic Acid 500mg/5mL Injection	EA	8F-2-1203
+4958-59-96X-1	Milrinone Lact 10mg/10mL Injection	EA	8F-2-1204
+0010-24-016-W	Propranolol HCl 1mg/mL Injection	EA	8F-2-1205
+0010-28-094-K	Paracetamol 1g/100mL Injection	EA	8F-3-1212
+0010-72-036-I	BUPivacaine 0.5%, EpiNEPHrine Injection 10mL	EA	8F-4-1213
+0010-48-001-E	Bromhexine HCl 4mg/2mL Injection	EA	8F-4-1214 to 1216
+0000-72-47X-1	Moxifloxacin HCl 400mg/250mL Infusion	EA	8F-4-1217
+0010-08-117-J	Amphotericin B Liposome 50mg Injection (Ambisome)	EA	8F-4-1218
+0010-08-078-E	Aztreonam 1g Injection (Azactam)	EA	8F-5-1219 to 1220
+0010-08-166-W	Meropenem 1g Injection	EA	8F-5-1221 to 1222
+0010-88-033-L	Thiamine HCl 100mg/2mL Inj (Vitamin B1)	EA	8F-5-1223 to 1224
+0010-08-145-E	Fluconazole 100mg/50mL Injection	EA	8F-6-1225 to 1226
+0010-08-168-K	CefePIME HCl 2g Injection	EA	8F-6-1227 to 1228
+0010-08-032-G	Penicillin Crystalline Sodium 5MU Injection	EA	8F-6-1229 to 1330
+0009-40-039-I	Dextrose 5%, NaCL 0.45% Infusion 500mL	EA	8F-7-1231 to 1232
+0010-40-051-W	Water For Injection 500mL	EA	8F-7-1233 to 1234
+2512-93-80X-0	Potassium Chl 20mmol/1L In D5/NS0.9%	EA	8F-7-1235 to 1236
+0010-20-088-H	Heparin Sodium 5,000 U/mL Injection	EA	8G-1-1237
+0010-86-001-W	Aminophylline 250mg/10mL Injection	EA	8G-1-1238
+0010-28-033-D	Diclofenac Sodium 75mg/3mL Injection	EA	8G-1-1239
+0010-72-031-H	ROPivacaine HCl 1% Injection 10mL (Naropin)	EA	8G-1-1240
+0006-91-49X-5	Inclisiran 284mg/1.5Ml Pf Syringe (Leqvio)	EA	8G-1-1241
+0010-68-030-H	Progesterone 50mg/mL Injection	EA	8G-1-1242
+0010-24-024-C	Papaverine HCl 120mg/10mL Injection	EA	8G-2-1243
+0010-28-017-W	Naloxone 400mcg/mL Injection	EA	8G-2-1244
+0010-24-073-G	Amiodarone HCl 150mg/3mL Injection	EA	8G-2-1245 to 1246
+0003-97-49X-8	Parecoxib 40mg Injection	EA	8G-2-1247 to 1248
+0010-28-080-F	Phenobarbital 200mg/mL Injection	EA	8G-3-1249
+0010-40-023-W	Calcium Chloride 10% Injection 10mL	EA	8G-3-1250
+0035-34-09X-6	Hyaluronic Acid 88mg Triamcinolone 18mg/4ml Inj (Cingal)	EA	8G-3-1251
+0010-08-025-D	MetroNIDAzole 500mg Injection 100mL	EA	8G-3-1252
+0010-20-035-G	Tissue Plasminogen Activator (Alteplase) 50mg Inj	EA	8G-3-1253 
+0010-12-012-D	Hyoscine N-Butylbromide 20mg/mL Injection	EA	8G-3-1254
+0010-08-113-G	CefoXITin Sodium 1g Injection	EA	8G-4-1255
+0003-97-69X-6	Sugammadex 200mg/2mL Injection 	EA	8G-4-1256
+0010-28-028-H	Phenytoin Sodium 250mg Injection	EA	8G-4-1257
+0010-20-011-J	Tranexamic Acid 500mg/5mL Injection	EA	8G-4-1258 to 1259
+0010-12-001-I	EpiNEPHrine 1:1,000 (1mg/mL) Injection	EA	8G-4-1260
+0010-20-027-F	Enoxaparin Sodium 40mg/0.4mL Injection (Clexane)	EA	8G-5-1261 to 1262
+0000-38-98X-7	LevoFLOXacin 250mg/50mL Injection	EA	8G-5-1263 to 1266
+0009-40-030-E	Sodium Chloride 3% Injection 500mL	EA	8G-7-1273 to 1274
+0010-64-007-F	Sod Thiosulfate 25% Inj 100ml	EA	8G-7-1275 to 1276
+0009-40-016-J	Dextrose 10% Infusion 500mL	EA	8G-7-1277 to 1278
+0010-68-045-F	Actrapid HM 1000 IU/10mL Injection	EA	FA-1-1
+0008-32-57X-3	Probiotic 112.5 Billion Capsule	EA	FA-2-3
+0010-80-010-I	Botulinum 100 IU Injection (Botox)	EA	FA-3-4
+0010-68-128-W	NovoRAPID FLEXPEN 300 IU/3mL Injection	EA	FA-3-5
+0010-68-046-D	CalciTONin 100 IU/mL Injection	EA	FA-3-6
+0010-08-018-L	Amphotericin B 50mg Injection	EA	FA-3-7
+0008-52-016-L	Chloramphenicol 0.5% Eye Drop (5mL/10mL)	EA	FA-4-08
+0042-49-79X-1	Semaglutide (OZEMPIC) 4mg/3mL PF Pen	EA	FA-4-09
+0010-80-030-C	Varicella-Zoster Vaccine (Varilix)	EA	FA-4-10
+1599-93-20X-5	Pneumococcal 0.5ML Vaccine (PREVENAR 20)	EA	FA-4-11
+0010-80-004-D	Anti-D (RHO) Immunogl 300mcg/dose Inj	EA	FB-1-12
+0004-68-010-E	FLUdrocortisone Acetate 0.1mg Tablet	EA	FB-1-13
+0010-68-099-E	Mixtard 30 Hm 1000 IU/10mL Injection	EA	FB-2-14
+0000-86-22X-9	Tetracosactide 0.25mg/mL Injection	EA	FB-2-15
+3353-98-37X-6	Dulaglutide 0.75mg/0.5mL PF Pen	EA	FB-2-16
+0001-84-95X-7	Humalog Mix25 300IU/3mL Kwikpen	EA	FB-2-17
+0010-80-006-K	Tetanus Immunoglobulin 250 U Injection	EA	FB-3-18
+2207-30-27X-1	Soliqua 100/33 Solostar	EA	FB-3-19
+5488-79-96X-6	Influenza 0.5mL Vaccine (VAXIGRIP TRIVALENT)	EA	FB-3-20
+0010-20-127-K	Filgrastim 30MU/0.5mL Injection	EA	FB-3-21
+0010-20-103-F	Eptifibatide 75mg/100ml Inj	EA	FB-4-22
+0010-80-100-C	Boostrix Injection 0.5mL	EA	FB-4-23
+0010-80-129-C	Meningococcal ACWY Conjugated Vaccine (Menactra)	EA	FB-4-24
+0010-20-134-W	Tissue Plasminogen Activator (Alteplase) 2MG INJ	EA	FB-4-25
+0008-52-094-C	Latanoprost 0.005% Eye Drop 2.5mL (Xalatan)	EA	FC-1-26
+0010-68-172-J	Insulin GLARgine 300 IU/3mL SOLOSTAR  (Lantus)	EA	FC-1-27
+0010-20-044-F	Erythropoietin Beta 4,000 IU (Recormon)	EA	FC-2-28
+0010-12-022-L	SUXAmethonium Chloride 100mg/2mL Injection	EA	FC-3-29
+0010-68-118-E	Insulatard HM 1000 IU/10mL Injection	EA	FC-3-30
+0027-56-68X-4	RITUximab 100mg/10ml Inj (Truxima)	EA	FC-3-31
+0010-68-161-L	Insulin Detemir FLEXPEN 300 IU/3mL Injection	EA	FC-3-32
+0005-84-376-W	Tri-Luma Cream 15g	EA	FC-4-33
+4550-20-97X-2	Liraglutide 6mg/mL Inj (Saxenda)	EA	FC-4-34
+0010-80-013-C	Anti Rabies Freeze Dried Vaccine 1mL	EA	FC-4-35
+0010-20-115-C	Erythropoietin Beta Peg 50mcg/0.3mL Inj	EA	FC-4-36
+0010-80-127-E	Pneumococcal 13-VALENT Vaccine 0.5mL (PREVENAR 13)	EA	FD-1-37
+0010-92-156-K	Denosumab 60mg/mL Prefilled Syringe (Prolia)	EA	FD-1-38
+		EA	FD-2-39
+1730-85-92X-4	TETANUS & DIPHTHERIA VACCINE (ADULT) (IMOVAX dT)	EA	FD-2-40
+0010-68-125-H	NovoMIX 30 FLEXPEN 300 IU/3mL Injection	EA	FD-2-41
+0007-68-007-F	CalciTONin 200 IU Nasal Spray 14D	EA	FD-2-42
+0010-80-023-K	Hepatitis B Immunoglobulin 5mL	EA	FD-3-43
+0020-66-99X-1	Eravacycline 50mg Inj	EA	FD-3-44
+0035-15-46X-2	Cinchocaine 5mg, Hydrocortisone 5mg Suppository	EA	FD-3-45
+0000-40-45X-7	Alfacalcidol 1mcg/0.5ml Inj	EA	FD-3-46
+0022-10-02X-8	Famotidine 20mg Inj	EA	FD-4-47
+0010-20-138-I	Darbepoietin Alfa 40mcg/0.5mL Injection	EA	FD-4-48
+0008-29-57X-9	Adalimumab 40mg/0.8ml Autoinj (Amgevita)	EA	FD-4-49
+0042-50-51X-9	Semaglutide 2mg/1.5ml PF Pen  (OZEMPIC) 	EA	FE-1-51
+0010-08-154-E	Anidulafungin 100mg Inj (ERAXIS)	EA	FE-1-52
+0010-68-104-E	Desmopressin Acetate 4mcg/mL Injection (Minirin)	EA	FE-2-54
+0010-80-061-C	Haemophilus B Conjugated Vaccine 0.5mL (Hiberix)	EA	FE-2-55
+0010-92-145-W	Tocilizumab 400mg/20mL Injection (Actemra)	EA	FE-2-56
+1121-58-79X-7	Dupilumab 300mg/2mL PF Syr (Dupixent)	EA	FE-3-58
+0005-84-402-L	Clindoxyl Gel 15g	EA	FE-3-59
+0010-68-008-L	Glucagon 1mg Injection	EA	FE-3-60
+0010-80-090-F	Varicella-Zoster IV Immunoglobulin 125 U/5mL Inj	EA	FE-4-61
+0003-97-62X-9	ROCUronium Br 50mg/5mL Injection	EA	FE-4-62
+0015-14-27X-3	Anti Rabies Immunoglobulin 300iu/ml Inj	EA	FE-4-63
+0010-80-027-C	Pneumococcal 23-VALENT Vaccine 0.5mL (PNEUMOVAX 23)	EA	FE-4-64
+0010-12-044-W	ATRAcurium Besylate 50mg/5mL Injection	EA	FF-1-65
+0010-68-110-J	Humalog Mix 25 300IU/3mL Cartridge	EA	FF-1-66
+0010-92-131-G	Octreotide 0.1mg/mL Injection (Sandostatin)	EA	FF-2-67
+0010-68-174-H	Insulin GLULIsine 300 IU/3mL SOLOSTAR (Apidra)	EA	FF-2-68
+0001-48-015-E	Dornase Alfa 2500U/2.5mL (Pulmozyme)	EA	FF-2-69
+0010-80-136-E	Botulinum 50 IU Injection (Botox)	EA	FF-2-70
+5846-26-38X-7	Dulaglutide 1.5mg/0.5mL Pen (TRULICITY)	EA	FF-2-71
+6900-92-50X-3	Soliqua 100/50 Solostar	EA	FF-3-72
+0007-84-13X-9	Ryzodeg 300IU/3mL Flextouch	EA	FF-3-73
+0015-68-002-K	Lugol's Iodine Mixture 100mL	BTL	FF-3-74
+0010-28-070-I	LoRAzepam 4mg/mL Inj (Ativan)	EA	FF-4-75
+1345-22-13X-6	Ixekizumab 80mg/mL Prefilled Pen (Talz)	EA	FF-4-76
+0010-92-144-C	Tocilizumab 80mg/4mL Injection (Actemra)	EA	FF-4-77
+0020-18-55X-2	Trimbow 100/6/12.5mcg Inhaler 120'S	EA	FF-4-78
+0010-76-009-C	Oxytocin 10 IU Inj (Syntocinon)	EA	FG-1-79
+0010-44-008-G	Rasburicase 1.5mg/mL Inj (Fasturtec)	EA	FG-1-80
+0010-20-136-K	Darbepoietin Alfa 120mcg/0.5mL Injection	EA	FG-1-81
+0010-68-175-G	Teriparatide 600mcg/2.4mL Injection (Forteo)	EA	FG-2-82
+0004-72-60X-0	RITUximab 500mg/50ml Inj (Truxima)	EA	FG-2-83
+0010-20-117-L	Erythropoietin Beta Peg 100mcg/0.3mL Injection	EA	FG-2-84
+0010-12-015-I	Isoprenaline HCl 0.2mg/mL Injection	EA	FG-3-85
+0010-20-102-G	Eptifibatide 20mg/10mL Injection	EA	FG-3-86
+0010-80-059-L	Hepatitis B 20mcg/mL Vaccine (Engerix)	EA	FG-4-87
+8638-98-63X-1	Infliximab 100mg Injection (Remsima)	EA	FG-4-88
+9219-99-52X-6	Evolocumab 140mg/mL Auto-Inj (Repatha)	EA	FG-4-90
+0010-68-147-I	Terlipressin 1mg/8.5mL Injection (Glypressin)	EA	FG-4-91
+6472-97-50X-6	Levosimendan 12.5mg/5ml Injection	EA	FG-4-92
+0004-28-038-G	Paracetamol 500mg Tablet	EA	MS-1A-2-2004 to 2019
+0010-08-167-L	Meropenem 500mg Injection	EA	MS-1B-2-2024 to 2025
+0004-56-034-G	OMEprazole 20mg Capsule	EA	MS-1B-3-2028 to 2031
+0010-08-073-D	Cloxacillin Sodium 500mg Injection	EA	MS-1B-4-2034 to 2035
+0004-20-017-K	Ferrous Gluconate Co Capsule	EA	MS-1C-3-2048 to 2051
+0004-68-061-J	GliPIzide 5mg Tablet	EA	MS-1C-4-2052 to 2055
+0009-40-013-E	Dextrose 5% Infusion 500mL	EA	MS-1C-5-2056 to 2057
+0009-40-116-C	Smofkabiven with Electrolyte 1.5L	EA	MS-1C-5-2058 to 2059
+0010-40-054-J	Potassium Chloride 10mmol/500mL in NS Infusion	EA	MS-1D-1-2060 to 2061
+0004-68-059-H	MetFORMIN HCl 500mg Tablet	EA	MS-1D-2-2064 to 2067
+0004-40-007-W	Potassium Chloride SR 600mg Tablet	EA	MS-1D-3-2068 to 2071
+0004-92-185-F	Acetylcysteine 600mg Effervescent Tablet	TAB	MS-1D-4-2072 to 2075
+0005-84-102-L	Heparinoid 0.3% Cream 14g (Hirudoid)	EA	MS-1E-2080 to 2083
+0004-40-025-K	Sodium Bicarbonate 500mg Capsule	EA	MS-1E-2-2084 to 2087
+0004-40-001-C	Calcium 450mg, Vitamin D 200 U Tablet	EA	MS-1E-3-2088 to 2091
+0010-40-067-F	Potassium Chl 20mmol/1L In D5/NS0.45%	EA	MS-1E-4-2094 to 2095
+0010-56-002-G	MetoCLOPramide 10mg/2mL Injection	EA	MS-2A-2-3005 to 3006
+0010-68-009-J	HYDrocortisone Sodium Succinate 100mg Injection	EA	MS-2A-2-3007 to 3008
+0010-56-023-G	Ondansetron HCl 4mg/2mL Injection	EA	MS-2A-3-3009 to 3012
+0010-24-082-G	Glyceryl Trinitrate 10mg/10mL Injection	EA	MS-2A-4-3013 to 3014
+0010-28-115-F	TraMADol HCl 50mg/mL Injection	EA	MS-2A-4-3015 to 3016
+0010-72-009-L	Lidocaine HCl 1% P/F Injection 5mL	EA	MS-2B-2-3025 to 3026
+0010-20-003-I	Heparinised Saline 50 U/5mL Injection	EA	MS-2B-3-3029 to 3032
+0010-40-004-F	Furosemide 20mg/2mL Injection	EA	MS-2B-4-3033 to 3036
+0010-24-033-W	Labetalol HCl 25mg/5mL Inj (Trandate)	EA	MS-2C-3-3049 to 3050
+0010-12-013-W	DOPamine 200mg/5mL Injection	EA	MS-2C-3-3051 to 3052
+0010-40-021-F	Dextrose 50% Injection (20mL/25mL)	EA	MS-2C-4-3053 to 3054
+0010-40-008-I	Potassium Chloride 7.45% Injection (10mL/25mL)	EA	MS-2C-4-3055 to 3056
+0010-40-011-I	Sodium Bicarbonate 8.4% Injection (10mL/20mL)	EA	MS-2D-2-3065 to 3068
+0010-20-026-H	Enoxaparin Sodium 20mg/0.2mL Injection (Clexane)	EA	MS-2D-3-3069 to 3070
+0009-40-026-G	Sodium Chloride 0.45% Infusion 500mL	EA	MS-2D-3-3071 to 3072
+0009-40-020-H	Compound Sodium Lactate Infusion 500mL	EA	MS-2D-4-3073 TO 3074
+0010-28-061-J	Propofol 500mg/50mL Injection	EA	MS-2E-2-3085 to 3088
+0009-40-086-K	Plasmalyte-A Infusion 500Ml	EA	MS-2E-3-3089 to 3092
